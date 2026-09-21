@@ -1,0 +1,1259 @@
+ReportID,Date,PatientAge,PatientGender,Drug,Reaction,Severity,Onset_Days,Outcome
+ADR3171,2026-02-09,,F,Omeprazole,Nausea,Mild,27.0,Recovered
+ADR2914,2026-07-02,27.0,male,Paracetamol,Liver Enzyme Elevation,Moderate,17.0,Recovered
+ADR2604,2026-05-02,39.0,Female,Losartan,Fatigue,Mild,20.0,Recovered
+ADR2654,2026-06-09,61.0,M,Warfarin,Bleeding,Mild,29.0,Recovering
+ADR2412,2026-05-18,63.0,F,Warfarin,Rash,Moderate,19.0,Recovering
+ADR3232,2026-04-18,90.0,male,Azithromycin,Nausea,Mild,-2.0,Recovered
+ADR2825,2026-06-13,80.0,M,Amlodipine,Dizziness,Serious,15.0,Recovered
+ADR3079,2026-03-19,41.0,,Metformin,Diarrhea,Mild,7.0,Recovered
+ADR2698,2026-02-26,22.0,F,Insulin,Injection Site Reaction,Moderate,12.0,Recovered
+ADR2518,2026-02-10,41.0,F,Warfarin,Bleeding,Serious,21.0,Hospitalized
+ADR2799,2026-03-03,72.0,Female,Atorvastatin,Liver Enzyme Elevation,Mild,12.0,Recovered
+ADR2182,2026-05-29,76.0,,Insulin,Weight Gain,Mild,29.0,Recovered
+ADR2149,2026-06-29,66.0,,Metformin,Nausea,Mild,3.0,Recovered
+ADR2776,2026-08-24,44.0,Female,Azithromycin,QT Prolongation,Serious,15.0,Hospitalized
+ADR2991,2026-06-15,,Female,Cetirizine,Headache,Mild,20.0,Recovered
+ADR2430,2026-08-30,90.0,M,Atorvastatin,Liver Enzyme Elevation,Serious,-2.0,Recovered
+ADR3016,2026-08-05,30.0,M,Omeprazole,Vitamin B12 Deficiency,Mild,27.0,Recovered
+ADR3017,2026-08-14,15.0,female,Ibuprofen,Rash,Mild,3.0,Recovered
+ADR2327,2026-08-08,30.0,Male,Metformin,Diarrhea,Mild,17.0,Recovered
+ADR2873,2026-04-13,67.0,,Metformin,Diarrhea,Mild,1.0,Recovering
+ADR2772,2026-07-01,54.0,M,Azithromycin,Diarrhea,Moderate,28.0,Recovered
+ADR2413,2026-09-06,89.0,F,Insulin,Hypoglycemia,Mild,30.0,Recovered
+ADR2804,2026-07-07,24.0,Female,Azithromycin,Diarrhea,Serious,22.0,Recovered
+ADR3193,2026-01-24,19.0,Male,Insulin,Hypoglycemia,Mild,16.0,Recovering
+ADR2040,2026-02-07,,female,Salbutamol,Headache,Mild,29.0,Recovered
+ADR2171,2026-07-27,80.0,female,Warfarin,Rash,Moderate,26.0,Recovering
+ADR2325,2026-06-29,25.0,Female,Cetirizine,Headache,Serious,5.0,Recovering
+ADR2028,2026-07-27,10.0,male,Metformin,Nausea,Moderate,-2.0,Recovering
+ADR2790,2026-06-05,78.0,,Insulin,Injection Site Reaction,Moderate,24.0,Recovered
+ADR2568,2026-07-27,39.0,male,Paracetamol,Liver Enzyme Elevation,Mild,12.0,Not Recovered
+ADR2131,2026-07-09,58.0,male,Ibuprofen,Rash,Mild,12.0,Recovered
+ADR3183,2026-02-02,61.0,male,Azithromycin,Nausea,Mild,23.0,Recovered
+ADR2459,2026-09-17,88.0,,Paracetamol,Liver Enzyme Elevation,Serious,11.0,Hospitalized
+ADR2103,2026-05-30,84.0,female,Paracetamol,Liver Enzyme Elevation,Mild,7.0,Not Recovered
+ADR2543,2026-04-12,88.0,female,Cetirizine,Drowsiness,Mild,-2.0,Recovered
+ADR2649,2026-03-23,14.0,male,Cetirizine,Drowsiness,Mild,14.0,Recovering
+ADR2859,2026-07-02,,male,Amlodipine,Swelling (Edema),Serious,11.0,Recovered
+ADR2933,2026-05-30,44.0,M,Metformin,Abdominal Pain,Mild,4.0,Recovered
+ADR2460,2026-09-09,8.0,female,Cetirizine,Dry Mouth,Moderate,1.0,Recovered
+ADR2338,2026-02-04,70.0,male,Paracetamol,Rash,Moderate,20.0,Recovered
+ADR2268,2026-07-10,75.0,Female,Atorvastatin,Muscle Pain,Serious,22.0,Recovering
+ADR2123,2026-01-26,64.0,M,Insulin,Weight Gain,Moderate,28.0,Recovered
+ADR2747,2026-02-12,74.0,Female,Atorvastatin,Liver Enzyme Elevation,Mild,22.0,Not Recovered
+ADR2777,2026-05-04,28.0,female,Insulin,Hypoglycemia,Serious,16.0,Recovered
+ADR2672,2026-07-11,79.0,male,Warfarin,Rash,Serious,5.0,Not Recovered
+ADR3138,2026-04-06,25.0,F,Azithromycin,Diarrhea,Moderate,4.0,Recovered
+ADR2247,2026-03-29,68.0,,Cetirizine,Dry Mouth,Mild,,Recovered
+ADR3136,2026-06-08,66.0,M,Metformin,Abdominal Pain,Mild,21.0,Recovering
+ADR2160,2026-03-05,47.0,M,Losartan,Dizziness,Moderate,,Recovering
+ADR2112,2026-01-30,88.0,,Amlodipine,Dizziness,Mild,16.0,Recovered
+ADR2640,2026-07-28,50.0,,Cetirizine,Dry Mouth,Serious,,Recovered
+ADR2022,2026-04-30,13.0,,Metformin,Diarrhea,Mild,19.0,Recovered
+ADR3211,2026-06-18,12.0,female,Cetirizine,Drowsiness,Moderate,30.0,Recovered
+ADR2671,2026-04-21,82.0,M,Omeprazole,Headache,Mild,6.0,Recovered
+ADR2368,2026-05-16,32.0,F,Warfarin,Bruising,Mild,30.0,Recovering
+ADR2513,2026-02-08,55.0,male,Ibuprofen,Nausea,Moderate,,Recovered
+ADR2058,2026-05-09,14.0,,Losartan,Fatigue,Moderate,4.0,Recovering
+ADR2006,2026-09-01,,F,Azithromycin,Diarrhea,Serious,3.0,Recovering
+ADR2342,2026-03-16,40.0,female,Warfarin,Bleeding,Serious,8.0,Recovering
+ADR2551,2026-05-17,46.0,,Metformin,Diarrhea,Mild,30.0,Recovering
+ADR2290,2026-09-05,28.0,F,Omeprazole,Headache,Mild,25.0,Recovered
+ADR2110,2026-05-20,53.0,M,Atorvastatin,Muscle Pain,Mild,13.0,Recovered
+ADR2410,2026-01-05,57.0,M,Amlodipine,Flushing,Mild,6.0,Recovered
+ADR2133,2026-06-23,57.0,F,Paracetamol,Liver Enzyme Elevation,Moderate,20.0,Recovered
+ADR2504,2026-05-16,,female,Ibuprofen,Stomach Ulcer,Moderate,-2.0,Recovered
+ADR3053,2026-01-16,16.0,male,Azithromycin,Diarrhea,Mild,,Recovered
+ADR2046,2026-09-10,73.0,Male,Metformin,Abdominal Pain,Mild,23.0,Recovered
+ADR2999,2026-05-30,,male,Insulin,Injection Site Reaction,Serious,5.0,Recovering
+ADR3230,2026-07-15,59.0,Male,Ibuprofen,Rash,Mild,,Recovered
+ADR2630,2026-08-03,80.0,,Metformin,Diarrhea,Mild,5.0,Recovered
+ADR2061,2026-07-08,68.0,Male,Ibuprofen,Nausea,Moderate,22.0,Recovered
+ADR2542,2026-05-24,60.0,Male,Ibuprofen,Nausea,Mild,17.0,Recovered
+ADR3075,2026-06-26,58.0,Male,Warfarin,Bleeding,Mild,8.0,Recovering
+ADR2707,2026-01-08,66.0,F,Amlodipine,Dizziness,Mild,15.0,Recovered
+ADR2136,2026-06-13,66.0,M,Insulin,Weight Gain,Mild,17.0,Recovered
+ADR2684,2026-08-06,66.0,,Paracetamol,Rash,Mild,26.0,Recovered
+ADR2060,2026-04-22,38.0,F,Ibuprofen,Stomach Ulcer,Moderate,20.0,Recovered
+ADR3062,2026-05-07,61.0,Female,Losartan,Hyperkalemia,Mild,14.0,Recovered
+ADR2761,2026-04-29,62.0,,Amlodipine,Dizziness,Serious,,Hospitalized
+ADR2314,2026-02-01,55.0,Female,Losartan,Fatigue,Mild,28.0,Recovering
+ADR2980,2026-07-04,8.0,Male,Losartan,Dizziness,Mild,20.0,Recovered
+ADR2031,2026-03-24,53.0,F,Losartan,Hyperkalemia,Mild,30.0,Recovered
+ADR2419,2026-01-19,35.0,F,Atorvastatin,Headache,Serious,1.0,Hospitalized
+ADR3240,2026-01-16,42.0,Male,Ibuprofen,Rash,Mild,10.0,Recovered
+ADR2448,2026-06-23,55.0,Male,Ibuprofen,Rash,Mild,-2.0,Recovering
+ADR3069,2026-02-26,56.0,Male,Salbutamol,Palpitations,Moderate,14.0,Recovering
+ADR2078,2026-05-28,66.0,male,Cetirizine,Drowsiness,Moderate,12.0,Recovered
+ADR2089,2026-07-31,82.0,Male,Atorvastatin,Headache,Serious,6.0,Recovered
+ADR2544,2026-07-21,78.0,F,Metformin,Abdominal Pain,Mild,4.0,Recovering
+ADR2101,2026-02-02,85.0,,Amlodipine,Flushing,Moderate,-2.0,Recovered
+ADR2109,2026-04-02,54.0,Male,Losartan,Dizziness,Mild,22.0,Recovered
+ADR2063,2026-08-10,67.0,M,Azithromycin,QT Prolongation,Serious,18.0,Recovering
+ADR2763,2026-09-12,67.0,Female,Paracetamol,Rash,Mild,27.0,Recovering
+ADR3244,2026-03-20,69.0,Female,Warfarin,Rash,Serious,,Hospitalized
+ADR2345,2026-07-14,52.0,Female,Atorvastatin,Headache,Serious,27.0,Recovering
+ADR2003,2026-06-18,60.0,M,Azithromycin,Diarrhea,Moderate,15.0,Recovered
+ADR3020,2026-09-09,51.0,M,Warfarin,Rash,Moderate,15.0,Recovered
+ADR2432,2026-05-30,40.0,male,Insulin,Injection Site Reaction,Mild,16.0,Recovered
+ADR2456,2026-02-19,47.0,Female,Losartan,Fatigue,Moderate,26.0,Recovering
+ADR2201,2026-03-09,55.0,male,Ibuprofen,Nausea,Moderate,13.0,Recovered
+ADR2261,2026-02-24,67.0,M,Paracetamol,Liver Enzyme Elevation,Mild,11.0,Recovered
+ADR2685,2026-07-05,6.0,female,Omeprazole,Nausea,Mild,12.0,Recovered
+ADR2592,2026-05-02,86.0,male,Ibuprofen,Stomach Ulcer,Serious,-2.0,Recovered
+ADR2622,2026-04-03,83.0,,Salbutamol,Palpitations,Mild,,Recovered
+ADR2828,2026-06-23,59.0,female,Paracetamol,Nausea,Mild,22.0,Recovered
+ADR2521,2026-02-05,,,Salbutamol,Palpitations,Mild,30.0,Recovering
+ADR2140,2026-05-30,50.0,,Amlodipine,Dizziness,Mild,-2.0,Recovered
+ADR3019,2026-02-02,18.0,Male,Ibuprofen,Stomach Ulcer,Mild,5.0,Recovered
+ADR2322,2026-02-21,,Male,Atorvastatin,Liver Enzyme Elevation,Mild,19.0,Recovered
+ADR2913,2026-05-04,54.0,male,Paracetamol,Nausea,Mild,,Recovered
+ADR2781,2026-07-27,69.0,M,Atorvastatin,Headache,Serious,22.0,Recovering
+ADR2258,2026-02-06,87.0,,Paracetamol,Rash,Mild,15.0,Not Recovered
+ADR2705,2026-05-28,16.0,female,Paracetamol,Liver Enzyme Elevation,Mild,20.0,Recovered
+ADR2385,2026-03-26,77.0,Female,Metformin,Abdominal Pain,Mild,8.0,Not Recovered
+ADR2135,2026-03-17,71.0,female,Losartan,Fatigue,Mild,22.0,Recovered
+ADR2346,2026-07-10,74.0,F,Paracetamol,Liver Enzyme Elevation,Moderate,22.0,Recovered
+ADR2977,2026-01-01,65.0,male,Salbutamol,Headache,Mild,-2.0,Recovering
+ADR2377,2026-07-11,71.0,,Losartan,Dizziness,Mild,4.0,Recovered
+ADR3102,2026-03-15,21.0,Male,Ibuprofen,Rash,Mild,18.0,Not Recovered
+ADR2305,2026-05-09,16.0,,Atorvastatin,Liver Enzyme Elevation,Mild,8.0,Recovered
+ADR2516,2026-03-03,73.0,,Paracetamol,Nausea,Serious,19.0,Recovering
+ADR2446,2026-05-03,54.0,M,Metformin,Nausea,Serious,22.0,Recovered
+ADR2481,2026-09-02,47.0,male,Amlodipine,Flushing,Serious,23.0,Recovered
+ADR2847,2026-07-04,89.0,F,Omeprazole,Nausea,Mild,,Recovered
+ADR2336,2026-03-09,21.0,Male,Omeprazole,Vitamin B12 Deficiency,Mild,17.0,Recovering
+ADR3104,2026-02-13,25.0,F,Salbutamol,Headache,Moderate,4.0,Recovered
+ADR2541,2026-01-28,6.0,Male,Amlodipine,Swelling (Edema),Mild,,Recovering
+ADR3205,2026-04-09,80.0,M,Cetirizine,Headache,Mild,23.0,Recovered
+ADR2864,2026-08-27,44.0,,Azithromycin,Diarrhea,Moderate,28.0,Not Recovered
+ADR2706,2026-01-13,90.0,Female,Atorvastatin,Liver Enzyme Elevation,Moderate,6.0,Recovered
+ADR2462,2026-07-02,,Female,Omeprazole,Nausea,Moderate,29.0,Recovered
+ADR2143,2026-01-16,19.0,F,Metformin,Diarrhea,Mild,24.0,Recovered
+ADR2098,2026-09-05,78.0,male,Losartan,Hyperkalemia,Moderate,-2.0,Recovered
+ADR2975,2026-01-11,12.0,Female,Omeprazole,Nausea,Serious,18.0,Recovered
+ADR2081,2026-04-08,20.0,Female,Cetirizine,Headache,Mild,27.0,Recovered
+ADR2324,2026-08-31,15.0,Female,Salbutamol,Headache,Mild,27.0,Recovered
+ADR2118,2026-04-08,84.0,F,Insulin,Hypoglycemia,Mild,30.0,Recovered
+ADR3080,2026-08-04,68.0,F,Insulin,Hypoglycemia,Moderate,7.0,Recovered
+ADR3215,2026-06-08,,F,Amlodipine,Flushing,Moderate,,Recovered
+ADR3099,2026-06-04,26.0,,Warfarin,Bruising,Mild,16.0,Recovering
+ADR2606,2026-09-16,53.0,female,Metformin,Abdominal Pain,Mild,-2.0,Recovered
+ADR2809,2026-01-28,43.0,M,Salbutamol,Headache,Mild,8.0,Recovering
+ADR2820,2026-08-24,81.0,Male,Warfarin,Bruising,Moderate,15.0,Recovered
+ADR2696,2026-03-21,34.0,Male,Amlodipine,Swelling (Edema),Moderate,-2.0,Hospitalized
+ADR3078,2026-05-12,32.0,Female,Paracetamol,Liver Enzyme Elevation,Moderate,7.0,Recovered
+ADR2120,2026-05-25,,Male,Salbutamol,Headache,Moderate,30.0,Recovering
+ADR2930,2026-04-15,31.0,,Azithromycin,QT Prolongation,Mild,24.0,Recovered
+ADR3144,2026-02-04,51.0,female,Warfarin,Rash,Serious,,Recovering
+ADR2845,2026-05-14,12.0,M,Paracetamol,Rash,Mild,14.0,Recovered
+ADR2351,2026-02-25,46.0,male,Ibuprofen,Stomach Ulcer,Moderate,14.0,Not Recovered
+ADR2181,2026-03-22,73.0,,Ibuprofen,Stomach Ulcer,Moderate,11.0,Recovered
+ADR3194,2026-05-12,59.0,female,Losartan,Dizziness,Mild,18.0,Recovered
+ADR2617,2026-07-01,65.0,M,Ibuprofen,Rash,Serious,18.0,Recovered
+ADR2853,2026-08-30,34.0,Male,Losartan,Dizziness,Mild,5.0,Recovered
+ADR2224,2026-06-14,61.0,Male,Warfarin,Bleeding,Serious,10.0,Hospitalized
+ADR2436,2026-05-22,77.0,M,Insulin,Hypoglycemia,Serious,27.0,Recovered
+ADR2902,2026-07-17,,M,Salbutamol,Tremor,Mild,,Recovered
+ADR2132,2026-05-06,48.0,Male,Cetirizine,Drowsiness,Moderate,29.0,Recovered
+ADR3161,2026-08-21,83.0,Male,Paracetamol,Liver Enzyme Elevation,Serious,23.0,Recovered
+ADR2229,2026-01-23,80.0,male,Atorvastatin,Liver Enzyme Elevation,Serious,23.0,Recovered
+ADR3065,2026-04-14,67.0,,Warfarin,Rash,Moderate,8.0,Not Recovered
+ADR2256,2026-04-21,75.0,F,Losartan,Fatigue,Mild,12.0,Recovered
+ADR3188,2026-06-17,45.0,F,Warfarin,Bleeding,Moderate,-2.0,Recovered
+ADR2743,2026-03-31,,female,Metformin,Diarrhea,Serious,11.0,Recovered
+ADR2582,2026-08-30,84.0,Male,Losartan,Fatigue,Moderate,11.0,Recovering
+ADR2248,2026-04-25,15.0,female,Cetirizine,Drowsiness,Mild,21.0,Recovered
+ADR2911,2026-02-23,34.0,Female,Salbutamol,Tremor,Mild,21.0,Recovering
+ADR2479,2026-08-23,,F,Ibuprofen,Stomach Ulcer,Mild,7.0,Recovered
+ADR3081,2026-05-26,39.0,male,Metformin,Diarrhea,Mild,6.0,Not Recovered
+ADR2200,2026-04-07,19.0,Female,Azithromycin,QT Prolongation,Serious,11.0,Recovered
+ADR2986,2026-07-18,90.0,female,Ibuprofen,Nausea,Mild,27.0,Recovered
+ADR2212,2026-04-01,45.0,M,Atorvastatin,Liver Enzyme Elevation,Mild,6.0,Hospitalized
+ADR2474,2026-08-15,56.0,Male,Amlodipine,Flushing,Moderate,30.0,Recovered
+ADR3042,2026-02-13,43.0,Male,Insulin,Weight Gain,Moderate,23.0,Recovered
+ADR2442,2026-07-10,33.0,male,Cetirizine,Dry Mouth,Moderate,7.0,Not Recovered
+ADR2449,2026-08-22,58.0,F,Paracetamol,Liver Enzyme Elevation,Mild,30.0,Recovered
+ADR2659,2026-01-07,41.0,female,Salbutamol,Palpitations,Moderate,23.0,Recovering
+ADR2310,2026-09-18,80.0,Male,Paracetamol,Rash,Mild,2.0,Recovered
+ADR2602,2026-08-30,,F,Cetirizine,Drowsiness,Moderate,22.0,Recovered
+ADR2099,2026-03-26,38.0,F,Azithromycin,QT Prolongation,Serious,,Recovered
+ADR2768,2026-08-09,40.0,male,Salbutamol,Palpitations,Mild,,Recovered
+ADR2487,2026-03-19,77.0,male,Cetirizine,Drowsiness,Moderate,25.0,Recovered
+ADR3010,2026-08-02,48.0,Male,Metformin,Nausea,Moderate,28.0,Recovered
+ADR2272,2026-08-09,43.0,Male,Losartan,Dizziness,Serious,10.0,Recovering
+ADR2660,2026-07-09,30.0,female,Salbutamol,Headache,Mild,3.0,Recovered
+ADR3137,2026-02-04,57.0,Male,Warfarin,Bruising,Moderate,16.0,Not Recovered
+ADR2223,2026-09-16,52.0,Male,Cetirizine,Dry Mouth,Moderate,12.0,Recovered
+ADR3168,2026-08-13,20.0,female,Cetirizine,Headache,Moderate,4.0,Recovered
+ADR2780,2026-03-15,76.0,female,Warfarin,Rash,Serious,4.0,Recovering
+ADR3076,2026-05-05,88.0,M,Warfarin,Bleeding,Mild,25.0,Not Recovered
+ADR2238,2026-08-19,76.0,M,Cetirizine,Drowsiness,Mild,-2.0,Recovered
+ADR2232,2026-07-07,45.0,F,Metformin,Nausea,Serious,5.0,Hospitalized
+ADR3051,2026-01-08,,Female,Paracetamol,Rash,Mild,24.0,Recovered
+ADR2581,2026-02-25,63.0,,Omeprazole,Headache,Moderate,25.0,Recovered
+ADR2627,2026-02-28,13.0,,Amlodipine,Dizziness,Mild,6.0,Not Recovered
+ADR3152,2026-04-01,12.0,Female,Losartan,Dizziness,Mild,7.0,Recovered
+ADR3134,2026-05-16,79.0,F,Salbutamol,Headache,Mild,4.0,Recovered
+ADR2371,2026-07-02,61.0,F,Atorvastatin,Liver Enzyme Elevation,Serious,19.0,Recovering
+ADR2721,2026-01-25,52.0,Female,Cetirizine,Headache,Mild,29.0,Recovered
+ADR2344,2026-05-19,61.0,Female,Ibuprofen,Stomach Ulcer,Moderate,21.0,Recovering
+ADR3029,2026-02-24,8.0,Male,Amlodipine,Dizziness,Mild,20.0,Recovered
+ADR2650,2026-01-28,31.0,Male,Omeprazole,Headache,Mild,-2.0,Recovered
+ADR2472,2026-09-07,57.0,male,Paracetamol,Rash,Mild,-2.0,Not Recovered
+ADR2228,2026-06-02,,M,Paracetamol,Rash,Moderate,17.0,Recovered
+ADR3167,2026-06-11,65.0,F,Omeprazole,Headache,Mild,,Recovering
+ADR2952,2026-07-04,9.0,F,Amlodipine,Dizziness,Moderate,22.0,Recovered
+ADR2509,2026-07-12,86.0,Female,Omeprazole,Headache,Mild,,Recovering
+ADR2880,2026-06-09,76.0,M,Atorvastatin,Liver Enzyme Elevation,Moderate,27.0,Recovered
+ADR2690,2026-08-28,52.0,male,Cetirizine,Headache,Mild,,Recovered
+ADR2496,2026-05-07,7.0,F,Warfarin,Rash,Moderate,11.0,Recovered
+ADR3085,2026-07-24,61.0,male,Cetirizine,Headache,Mild,-2.0,Recovered
+ADR2943,2026-01-07,,Male,Omeprazole,Vitamin B12 Deficiency,Mild,20.0,Recovered
+ADR2065,2026-02-14,63.0,,Azithromycin,Diarrhea,Serious,-2.0,Recovered
+ADR2786,2026-08-02,22.0,F,Losartan,Dizziness,Mild,3.0,Not Recovered
+ADR2508,2026-08-18,13.0,,Salbutamol,Palpitations,Moderate,-2.0,Recovering
+ADR2701,2026-04-16,63.0,male,Paracetamol,Nausea,Mild,24.0,Hospitalized
+ADR3166,2026-08-16,89.0,F,Losartan,Fatigue,Moderate,28.0,Recovered
+ADR2151,2026-03-14,24.0,M,Amlodipine,Dizziness,Mild,14.0,Recovering
+ADR3181,2026-07-21,13.0,M,Insulin,Hypoglycemia,Mild,22.0,Recovered
+ADR3172,2026-03-14,50.0,Male,Salbutamol,Palpitations,Mild,22.0,Recovered
+ADR2285,2026-08-01,74.0,female,Metformin,Nausea,Mild,28.0,Not Recovered
+ADR3115,2026-05-28,18.0,female,Amlodipine,Dizziness,Mild,23.0,Recovered
+ADR2451,2026-08-08,63.0,Male,Paracetamol,Rash,Serious,,Recovering
+ADR2752,2026-05-09,43.0,M,Losartan,Fatigue,Moderate,9.0,Recovered
+ADR2121,2026-08-05,9.0,female,Cetirizine,Dry Mouth,Moderate,26.0,Recovered
+ADR2846,2026-07-18,32.0,Male,Atorvastatin,Headache,Moderate,8.0,Recovered
+ADR2259,2026-05-29,44.0,male,Omeprazole,Nausea,Mild,,Recovered
+ADR2375,2026-01-14,19.0,F,Metformin,Diarrhea,Mild,9.0,Recovered
+ADR2618,2026-02-05,33.0,M,Omeprazole,Headache,Mild,,Recovered
+ADR2757,2026-02-18,6.0,,Omeprazole,Vitamin B12 Deficiency,Moderate,26.0,Recovered
+ADR2925,2026-02-28,72.0,Female,Omeprazole,Nausea,Moderate,24.0,Recovered
+ADR2197,2026-01-27,18.0,F,Warfarin,Bruising,Mild,19.0,Recovering
+ADR2708,2026-07-04,5.0,F,Losartan,Hyperkalemia,Moderate,19.0,Recovered
+ADR2812,2026-06-19,76.0,Male,Ibuprofen,Nausea,Mild,21.0,Recovered
+ADR2694,2026-04-23,33.0,,Atorvastatin,Muscle Pain,Serious,,Recovered
+ADR2583,2026-06-04,57.0,Male,Insulin,Weight Gain,Serious,,Recovered
+ADR2702,2026-04-04,40.0,Female,Omeprazole,Nausea,Moderate,2.0,Recovered
+ADR2092,2026-03-27,67.0,F,Losartan,Dizziness,Serious,18.0,Not Recovered
+ADR2281,2026-09-18,70.0,female,Salbutamol,Palpitations,Moderate,2.0,Not Recovered
+ADR2257,2026-05-01,15.0,female,Paracetamol,Liver Enzyme Elevation,Mild,,Recovered
+ADR3179,2026-03-10,56.0,Male,Losartan,Fatigue,Mild,30.0,Recovered
+ADR2665,2026-08-23,56.0,male,Salbutamol,Palpitations,Mild,26.0,Recovering
+ADR2794,2026-04-10,87.0,male,Amlodipine,Swelling (Edema),Moderate,-2.0,Recovering
+ADR2438,2026-06-06,,male,Amlodipine,Swelling (Edema),Moderate,22.0,Recovered
+ADR2507,2026-01-19,38.0,,Azithromycin,Diarrhea,Serious,6.0,Not Recovered
+ADR2629,2026-08-13,43.0,M,Metformin,Abdominal Pain,Moderate,5.0,Recovered
+ADR2557,2026-04-26,26.0,Male,Salbutamol,Tremor,Mild,30.0,Recovering
+ADR3112,2026-06-24,18.0,female,Paracetamol,Rash,Mild,16.0,Recovering
+ADR2749,2026-05-07,,male,Paracetamol,Liver Enzyme Elevation,Mild,8.0,Recovered
+ADR3088,2026-02-24,25.0,F,Atorvastatin,Liver Enzyme Elevation,Moderate,3.0,Recovering
+ADR2539,2026-04-28,,Female,Warfarin,Rash,Mild,22.0,Recovered
+ADR3203,2026-03-14,82.0,F,Atorvastatin,Headache,Moderate,3.0,Recovered
+ADR2280,2026-09-01,21.0,,Losartan,Dizziness,Mild,7.0,Recovered
+ADR2778,2026-08-11,48.0,F,Salbutamol,Headache,Mild,-2.0,Recovered
+ADR2030,2026-05-15,32.0,F,Losartan,Hyperkalemia,Moderate,-2.0,Recovered
+ADR3177,2026-09-17,83.0,Male,Atorvastatin,Muscle Pain,Moderate,26.0,Not Recovered
+ADR2834,2026-01-31,48.0,F,Insulin,Weight Gain,Mild,23.0,Recovered
+ADR2335,2026-01-20,52.0,Male,Metformin,Abdominal Pain,Mild,,Recovered
+ADR2510,2026-08-10,7.0,,Omeprazole,Vitamin B12 Deficiency,Moderate,23.0,Recovering
+ADR2575,2026-09-14,47.0,Male,Cetirizine,Headache,Moderate,29.0,Not Recovered
+ADR2041,2026-09-09,12.0,,Warfarin,Rash,Mild,-2.0,Recovered
+ADR2017,2026-05-16,6.0,F,Cetirizine,Dry Mouth,Mild,5.0,Recovered
+ADR2916,2026-05-26,62.0,F,Amlodipine,Dizziness,Mild,8.0,Recovering
+ADR2619,2026-08-19,48.0,male,Ibuprofen,Rash,Mild,1.0,Recovered
+ADR2530,2026-04-16,,M,Cetirizine,Headache,Serious,27.0,Hospitalized
+ADR2567,2026-02-17,78.0,Female,Warfarin,Rash,Mild,-2.0,Recovering
+ADR2554,2026-01-09,72.0,Male,Omeprazole,Vitamin B12 Deficiency,Mild,-2.0,Recovered
+ADR3213,2026-07-28,84.0,Male,Omeprazole,Headache,Serious,17.0,Hospitalized
+ADR3149,2026-08-15,44.0,male,Salbutamol,Tremor,Mild,15.0,Recovered
+ADR2250,2026-08-24,10.0,F,Paracetamol,Rash,Serious,,Recovered
+ADR2713,2026-07-08,83.0,male,Insulin,Weight Gain,Serious,2.0,Recovered
+ADR2296,2026-07-02,44.0,F,Omeprazole,Nausea,Moderate,,Recovered
+ADR3178,2026-03-04,17.0,male,Cetirizine,Headache,Mild,26.0,Recovered
+ADR2011,2026-05-04,52.0,F,Amlodipine,Swelling (Edema),Moderate,,Recovered
+ADR2646,2026-09-04,15.0,Male,Omeprazole,Vitamin B12 Deficiency,Mild,24.0,Recovered
+ADR2725,2026-02-11,19.0,Male,Cetirizine,Headache,Mild,28.0,Recovering
+ADR2762,2026-08-15,41.0,M,Warfarin,Bruising,Moderate,7.0,Recovering
+ADR2066,2026-04-21,39.0,F,Ibuprofen,Stomach Ulcer,Mild,11.0,Not Recovered
+ADR2333,2026-01-08,66.0,,Ibuprofen,Rash,Mild,2.0,Recovered
+ADR3058,2026-01-22,,F,Metformin,Diarrhea,Moderate,-2.0,Recovered
+ADR3159,2026-06-14,76.0,Male,Amlodipine,Flushing,Serious,,Hospitalized
+ADR2830,2026-04-10,48.0,F,Azithromycin,Diarrhea,Mild,8.0,Recovered
+ADR2169,2026-08-21,19.0,male,Amlodipine,Flushing,Mild,,Recovered
+ADR2227,2026-09-18,19.0,F,Amlodipine,Dizziness,Serious,25.0,Hospitalized
+ADR2194,2026-02-26,84.0,F,Paracetamol,Rash,Mild,19.0,Not Recovered
+ADR3025,2026-05-17,30.0,female,Warfarin,Rash,Mild,,Recovered
+ADR2373,2026-08-10,15.0,female,Omeprazole,Vitamin B12 Deficiency,Mild,6.0,Recovered
+ADR2565,2026-03-21,76.0,Female,Insulin,Weight Gain,Mild,16.0,Recovered
+ADR2553,2026-06-26,48.0,Male,Metformin,Diarrhea,Mild,14.0,Recovered
+ADR2505,2026-02-07,18.0,F,Losartan,Dizziness,Mild,,Recovering
+ADR3067,2026-01-10,40.0,male,Cetirizine,Dry Mouth,Mild,,Recovering
+ADR2748,2026-03-15,84.0,M,Paracetamol,Nausea,Mild,5.0,Recovered
+ADR2144,2026-04-15,,F,Warfarin,Rash,Serious,13.0,Recovered
+ADR2035,2026-07-25,40.0,Female,Insulin,Hypoglycemia,Mild,13.0,Recovered
+ADR2142,2026-03-30,73.0,M,Atorvastatin,Liver Enzyme Elevation,Mild,21.0,Recovered
+ADR3093,2026-03-19,18.0,male,Warfarin,Bleeding,Mild,10.0,Recovered
+ADR2304,2026-09-11,47.0,female,Insulin,Injection Site Reaction,Moderate,6.0,Recovering
+ADR2382,2026-06-06,39.0,,Azithromycin,Diarrhea,Moderate,2.0,Recovered
+ADR2998,2026-08-07,15.0,Male,Atorvastatin,Liver Enzyme Elevation,Moderate,1.0,Recovering
+ADR2249,2026-09-07,81.0,Female,Insulin,Weight Gain,Mild,-2.0,Recovered
+ADR3243,2026-09-06,46.0,Male,Warfarin,Bruising,Moderate,,Recovered
+ADR2399,2026-05-13,45.0,female,Warfarin,Bruising,Moderate,24.0,Recovering
+ADR2598,2026-09-15,7.0,,Metformin,Diarrhea,Mild,17.0,Recovered
+ADR2889,2026-07-16,32.0,Female,Atorvastatin,Muscle Pain,Mild,30.0,Recovered
+ADR2359,2026-05-27,73.0,,Ibuprofen,Nausea,Mild,17.0,Recovering
+ADR2166,2026-01-05,85.0,M,Metformin,Abdominal Pain,Mild,28.0,Recovered
+ADR2680,2026-01-02,49.0,F,Insulin,Weight Gain,Serious,13.0,Recovered
+ADR2819,2026-06-07,47.0,male,Ibuprofen,Nausea,Mild,15.0,Not Recovered
+ADR2478,2026-02-02,37.0,Male,Metformin,Abdominal Pain,Moderate,7.0,Recovered
+ADR2494,2026-08-22,14.0,male,Losartan,Hyperkalemia,Mild,19.0,Recovered
+ADR2188,2026-01-31,52.0,F,Omeprazole,Nausea,Mild,5.0,Recovering
+ADR3153,2026-03-30,46.0,Male,Paracetamol,Rash,Mild,29.0,Recovered
+ADR3199,2026-05-14,25.0,Female,Insulin,Injection Site Reaction,Mild,-2.0,Recovered
+ADR2347,2026-05-25,19.0,M,Azithromycin,Diarrhea,Mild,14.0,Recovered
+ADR2073,2026-03-18,79.0,female,Omeprazole,Headache,Mild,11.0,Recovered
+ADR2722,2026-01-23,42.0,Male,Paracetamol,Liver Enzyme Elevation,Mild,26.0,Recovered
+ADR2590,2026-05-27,33.0,M,Warfarin,Bleeding,Serious,29.0,Recovered
+ADR2447,2026-08-15,53.0,male,Salbutamol,Headache,Mild,24.0,Recovered
+ADR2165,2026-04-02,,,Ibuprofen,Nausea,Mild,19.0,Recovered
+ADR2426,2026-08-25,29.0,Male,Warfarin,Bruising,Moderate,30.0,Recovered
+ADR2892,2026-03-31,54.0,female,Ibuprofen,Nausea,Mild,-2.0,Recovered
+ADR2600,2026-05-25,,F,Azithromycin,Diarrhea,Mild,23.0,Recovered
+ADR2190,2026-04-10,25.0,,Amlodipine,Flushing,Mild,-2.0,Recovered
+ADR2835,2026-02-11,,male,Omeprazole,Vitamin B12 Deficiency,Moderate,5.0,Recovered
+ADR3028,2026-08-16,34.0,Male,Amlodipine,Dizziness,Moderate,4.0,Recovering
+ADR2612,2026-03-21,41.0,female,Salbutamol,Headache,Mild,17.0,Recovered
+ADR2515,2026-06-07,24.0,Female,Metformin,Diarrhea,Mild,,Recovering
+ADR3082,2026-03-10,24.0,Female,Ibuprofen,Nausea,Mild,27.0,Recovering
+ADR2956,2026-05-08,48.0,Female,Cetirizine,Drowsiness,Moderate,-2.0,Recovering
+ADR3052,2026-05-26,,male,Warfarin,Rash,Moderate,-2.0,Not Recovered
+ADR2961,2026-09-08,73.0,Female,Amlodipine,Swelling (Edema),Moderate,-2.0,Recovered
+ADR3228,2026-03-23,,Female,Losartan,Hyperkalemia,Moderate,24.0,Recovered
+ADR2353,2026-06-05,16.0,F,Ibuprofen,Stomach Ulcer,Mild,8.0,Recovering
+ADR2891,2026-03-28,,female,Amlodipine,Dizziness,Mild,23.0,Hospitalized
+ADR3119,2026-04-06,9.0,female,Ibuprofen,Stomach Ulcer,Moderate,17.0,Recovering
+ADR2801,2026-09-07,5.0,M,Paracetamol,Liver Enzyme Elevation,Mild,19.0,Recovering
+ADR2887,2026-06-14,42.0,female,Cetirizine,Dry Mouth,Moderate,23.0,Not Recovered
+ADR2765,2026-04-08,33.0,male,Ibuprofen,Stomach Ulcer,Mild,12.0,Hospitalized
+ADR3036,2026-04-26,6.0,,Insulin,Weight Gain,Serious,3.0,Hospitalized
+ADR2908,2026-03-25,8.0,Male,Ibuprofen,Nausea,Mild,24.0,Recovered
+ADR3180,2026-05-23,66.0,Male,Cetirizine,Dry Mouth,Serious,3.0,Recovered
+ADR3106,2026-01-24,,male,Atorvastatin,Liver Enzyme Elevation,Serious,16.0,Recovered
+ADR3139,2026-07-26,30.0,female,Warfarin,Bruising,Mild,5.0,Not Recovered
+ADR3060,2026-03-29,77.0,female,Amlodipine,Dizziness,Mild,18.0,Recovered
+ADR2978,2026-01-24,,F,Azithromycin,QT Prolongation,Moderate,30.0,Recovered
+ADR2202,2026-08-05,17.0,male,Cetirizine,Drowsiness,Mild,-2.0,Recovered
+ADR2443,2026-03-02,22.0,Male,Ibuprofen,Stomach Ulcer,Moderate,-2.0,Recovered
+ADR2225,2026-03-06,23.0,M,Warfarin,Bleeding,Mild,14.0,Recovered
+ADR2129,2026-04-25,38.0,Female,Omeprazole,Headache,Mild,-2.0,Recovered
+ADR2117,2026-07-24,14.0,male,Ibuprofen,Stomach Ulcer,Mild,21.0,Recovered
+ADR2552,2026-08-17,57.0,female,Metformin,Abdominal Pain,Mild,3.0,Recovered
+ADR2661,2026-05-18,61.0,Male,Atorvastatin,Muscle Pain,Moderate,11.0,Recovered
+ADR2219,2026-02-02,23.0,male,Amlodipine,Swelling (Edema),Moderate,6.0,Recovered
+ADR2924,2026-06-01,,F,Azithromycin,Diarrhea,Serious,,Recovered
+ADR2666,2026-04-04,86.0,male,Salbutamol,Headache,Mild,-2.0,Recovered
+ADR2882,2026-05-13,72.0,female,Atorvastatin,Liver Enzyme Elevation,Moderate,15.0,Recovering
+ADR2107,2026-04-04,82.0,Male,Ibuprofen,Nausea,Moderate,2.0,Recovered
+ADR3114,2026-08-31,33.0,,Warfarin,Bleeding,Serious,18.0,Recovered
+ADR2856,2026-02-05,31.0,Female,Ibuprofen,Rash,Mild,12.0,Recovered
+ADR2996,2026-04-19,43.0,male,Amlodipine,Flushing,Moderate,23.0,Recovered
+ADR2643,2026-03-18,27.0,female,Insulin,Injection Site Reaction,Mild,-2.0,Recovered
+ADR3059,2026-08-08,5.0,Female,Metformin,Diarrhea,Mild,11.0,Recovered
+ADR2607,2026-02-20,86.0,male,Salbutamol,Tremor,Moderate,-2.0,Recovered
+ADR2941,2026-08-18,12.0,,Ibuprofen,Stomach Ulcer,Moderate,25.0,Recovered
+ADR2687,2026-09-10,62.0,male,Azithromycin,Nausea,Serious,25.0,Recovering
+ADR3086,2026-01-03,51.0,female,Amlodipine,Flushing,Mild,,Recovered
+ADR2814,2026-01-03,,,Insulin,Weight Gain,Moderate,22.0,Recovered
+ADR2608,2026-01-14,78.0,,Salbutamol,Tremor,Moderate,,Recovered
+ADR2673,2026-07-15,77.0,Male,Paracetamol,Rash,Mild,26.0,Recovered
+ADR2497,2026-05-22,8.0,Female,Losartan,Hyperkalemia,Mild,29.0,Recovered
+ADR2395,2026-09-07,77.0,F,Salbutamol,Palpitations,Mild,,Recovered
+ADR2300,2026-04-24,56.0,Male,Amlodipine,Swelling (Edema),Mild,10.0,Recovering
+ADR2025,2026-06-16,72.0,Female,Omeprazole,Nausea,Moderate,-2.0,Not Recovered
+ADR3061,2026-04-12,32.0,Male,Warfarin,Bleeding,Moderate,19.0,Recovered
+ADR2642,2026-02-03,12.0,female,Paracetamol,Nausea,Mild,-2.0,Recovering
+ADR2562,2026-08-20,64.0,male,Losartan,Dizziness,Serious,12.0,Recovered
+ADR3057,2026-07-20,83.0,male,Insulin,Hypoglycemia,Moderate,7.0,Recovering
+ADR2950,2026-07-19,25.0,F,Insulin,Weight Gain,Serious,23.0,Recovering
+ADR3141,2026-02-09,78.0,,Losartan,Dizziness,Serious,30.0,Recovered
+ADR2053,2026-07-13,88.0,male,Losartan,Hyperkalemia,Moderate,6.0,Recovered
+ADR2301,2026-09-12,75.0,Male,Omeprazole,Headache,Mild,13.0,Recovered
+ADR3100,2026-01-04,24.0,male,Amlodipine,Dizziness,Mild,4.0,Recovering
+ADR3143,2026-07-21,85.0,Female,Warfarin,Bleeding,Moderate,10.0,Recovering
+ADR2205,2026-05-08,86.0,female,Azithromycin,Nausea,Mild,27.0,Recovering
+ADR2480,2026-08-03,33.0,,Losartan,Dizziness,Mild,-2.0,Recovered
+ADR3034,2026-05-21,,F,Azithromycin,Diarrhea,Mild,-2.0,Recovered
+ADR2717,2026-09-01,31.0,Female,Metformin,Nausea,Mild,14.0,Recovered
+ADR2894,2026-03-21,,Female,Insulin,Weight Gain,Mild,19.0,Recovered
+ADR2450,2026-02-19,62.0,M,Azithromycin,Diarrhea,Moderate,6.0,Recovered
+ADR2867,2026-07-11,,F,Losartan,Dizziness,Mild,6.0,Not Recovered
+ADR2890,2026-06-01,72.0,Female,Paracetamol,Liver Enzyme Elevation,Moderate,16.0,Recovered
+ADR3002,2026-02-22,5.0,F,Paracetamol,Rash,Serious,-2.0,Recovered
+ADR3117,2026-07-08,42.0,male,Omeprazole,Nausea,Moderate,30.0,Recovered
+ADR3031,2026-09-07,23.0,Male,Omeprazole,Headache,Mild,29.0,Not Recovered
+ADR2196,2026-03-29,15.0,Female,Salbutamol,Tremor,Serious,28.0,Hospitalized
+ADR2454,2026-06-10,50.0,,Cetirizine,Headache,Mild,24.0,Recovered
+ADR2423,2026-01-27,74.0,male,Paracetamol,Liver Enzyme Elevation,Moderate,7.0,Recovered
+ADR2409,2026-07-11,42.0,Female,Atorvastatin,Liver Enzyme Elevation,Serious,,Recovering
+ADR2610,2026-05-18,34.0,male,Salbutamol,Headache,Mild,,Recovered
+ADR3131,2026-06-25,12.0,female,Paracetamol,Rash,Mild,,Recovering
+ADR2125,2026-05-13,71.0,,Insulin,Hypoglycemia,Moderate,1.0,Recovered
+ADR3109,2026-03-18,60.0,M,Amlodipine,Dizziness,Mild,-2.0,Recovering
+ADR2056,2026-09-05,63.0,female,Cetirizine,Dry Mouth,Moderate,,Recovered
+ADR2490,2026-07-05,16.0,male,Paracetamol,Nausea,Moderate,,Not Recovered
+ADR3027,2026-04-26,18.0,female,Ibuprofen,Nausea,Moderate,7.0,Recovered
+ADR2323,2026-02-06,39.0,F,Paracetamol,Liver Enzyme Elevation,Moderate,,Not Recovered
+ADR2486,2026-03-12,9.0,Male,Ibuprofen,Nausea,Moderate,26.0,Not Recovered
+ADR2727,2026-08-15,66.0,,Metformin,Abdominal Pain,Moderate,28.0,Not Recovered
+ADR2733,2026-02-14,20.0,female,Salbutamol,Headache,Serious,-2.0,Recovered
+ADR2825,2026-06-13,80.0,M,Amlodipine,Dizziness,Serious,15.0,Recovered
+ADR2895,2026-03-13,19.0,Male,Salbutamol,Palpitations,Moderate,16.0,Recovered
+ADR2393,2026-02-25,66.0,Male,Azithromycin,QT Prolongation,Serious,-2.0,Recovered
+ADR2297,2026-04-18,73.0,F,Omeprazole,Headache,Moderate,16.0,Recovered
+ADR3200,2026-06-27,81.0,Male,Metformin,Nausea,Serious,19.0,Recovered
+ADR2676,2026-03-20,72.0,Male,Atorvastatin,Muscle Pain,Serious,-2.0,Recovered
+ADR2260,2026-05-17,50.0,,Metformin,Diarrhea,Serious,29.0,Hospitalized
+ADR2391,2026-04-10,45.0,Male,Warfarin,Bruising,Mild,15.0,Recovering
+ADR2312,2026-06-29,64.0,Male,Salbutamol,Palpitations,Moderate,-2.0,Recovered
+ADR3235,2026-07-03,76.0,male,Warfarin,Rash,Mild,28.0,Not Recovered
+ADR2866,2026-06-08,38.0,M,Cetirizine,Dry Mouth,Mild,28.0,Recovered
+ADR2476,2026-03-22,13.0,F,Metformin,Diarrhea,Mild,18.0,Recovered
+ADR2273,2026-07-16,85.0,male,Omeprazole,Nausea,Serious,11.0,Hospitalized
+ADR2741,2026-07-28,44.0,M,Warfarin,Rash,Mild,14.0,Recovered
+ADR2220,2026-04-10,86.0,,Omeprazole,Vitamin B12 Deficiency,Mild,25.0,Recovered
+ADR2328,2026-06-19,,female,Omeprazole,Headache,Moderate,-2.0,Not Recovered
+ADR2164,2026-08-17,20.0,female,Losartan,Dizziness,Moderate,19.0,Recovered
+ADR2857,2026-02-13,65.0,,Insulin,Weight Gain,Moderate,28.0,Not Recovered
+ADR2591,2026-06-30,26.0,Female,Metformin,Nausea,Moderate,19.0,Recovered
+ADR2796,2026-01-29,84.0,male,Amlodipine,Dizziness,Mild,30.0,Not Recovered
+ADR2675,2026-04-18,59.0,,Cetirizine,Drowsiness,Serious,27.0,Recovered
+ADR3239,2026-07-29,31.0,female,Losartan,Hyperkalemia,Mild,,Recovered
+ADR2862,2026-08-30,57.0,Female,Insulin,Weight Gain,Moderate,19.0,Not Recovered
+ADR3032,2026-02-15,46.0,Male,Cetirizine,Dry Mouth,Mild,17.0,Recovered
+ADR2104,2026-09-09,89.0,F,Salbutamol,Tremor,Serious,21.0,Recovered
+ADR2019,2026-03-02,8.0,,Amlodipine,Dizziness,Mild,5.0,Recovered
+ADR2082,2026-03-08,26.0,female,Warfarin,Rash,Moderate,22.0,Recovered
+ADR2677,2026-01-27,67.0,M,Salbutamol,Tremor,Moderate,10.0,Not Recovered
+ADR3096,2026-09-16,28.0,,Losartan,Dizziness,Mild,29.0,Recovered
+ADR3021,2026-07-02,59.0,Male,Omeprazole,Nausea,Mild,13.0,Recovering
+ADR2352,2026-05-12,69.0,Female,Salbutamol,Palpitations,Mild,27.0,Recovered
+ADR2465,2026-05-08,63.0,male,Paracetamol,Nausea,Mild,7.0,Recovered
+ADR2569,2026-07-15,12.0,female,Amlodipine,Swelling (Edema),Mild,13.0,Recovered
+ADR2816,2026-06-17,26.0,F,Insulin,Injection Site Reaction,Serious,13.0,Recovered
+ADR2127,2026-01-01,36.0,F,Paracetamol,Liver Enzyme Elevation,Moderate,11.0,Recovered
+ADR3122,2026-05-28,,Female,Amlodipine,Swelling (Edema),Mild,22.0,Recovered
+ADR2418,2026-05-24,5.0,Female,Omeprazole,Vitamin B12 Deficiency,Moderate,,Recovered
+ADR2803,2026-08-05,,Male,Azithromycin,Diarrhea,Serious,,Recovered
+ADR2463,2026-07-05,40.0,female,Azithromycin,QT Prolongation,Mild,13.0,Recovered
+ADR2146,2026-03-07,88.0,Male,Cetirizine,Drowsiness,Mild,19.0,Recovering
+ADR2045,2026-04-23,29.0,female,Insulin,Injection Site Reaction,Moderate,3.0,Recovered
+ADR2970,2026-08-27,87.0,Female,Atorvastatin,Liver Enzyme Elevation,Moderate,7.0,Recovered
+ADR2875,2026-04-06,39.0,F,Salbutamol,Palpitations,Moderate,28.0,Recovering
+ADR2871,2026-09-14,62.0,female,Warfarin,Rash,Moderate,30.0,Recovered
+ADR3130,2026-07-21,10.0,F,Losartan,Fatigue,Moderate,10.0,Recovering
+ADR2317,2026-03-22,42.0,F,Warfarin,Rash,Serious,15.0,Recovered
+ADR2167,2026-05-06,42.0,M,Ibuprofen,Nausea,Moderate,18.0,Recovering
+ADR2545,2026-06-03,79.0,male,Cetirizine,Dry Mouth,Moderate,10.0,Recovered
+ADR2517,2026-01-07,,Male,Salbutamol,Tremor,Mild,21.0,Recovered
+ADR2851,2026-03-06,30.0,male,Atorvastatin,Muscle Pain,Serious,17.0,Recovering
+ADR2644,2026-03-17,42.0,male,Warfarin,Rash,Serious,11.0,Recovered
+ADR2088,2026-04-29,8.0,male,Insulin,Hypoglycemia,Mild,,Recovering
+ADR2334,2026-05-09,47.0,,Omeprazole,Headache,Mild,-2.0,Recovered
+ADR2018,2026-03-12,79.0,male,Paracetamol,Rash,Moderate,22.0,Recovered
+ADR2585,2026-03-05,24.0,M,Paracetamol,Liver Enzyme Elevation,Serious,-2.0,Recovered
+ADR2969,2026-07-24,30.0,,Losartan,Dizziness,Mild,4.0,Recovering
+ADR2055,2026-01-02,25.0,Female,Warfarin,Bleeding,Serious,13.0,Not Recovered
+ADR2910,2026-08-11,90.0,male,Paracetamol,Nausea,Mild,5.0,Recovered
+ADR2592,2026-05-02,86.0,male,Ibuprofen,Stomach Ulcer,Serious,-2.0,Recovered
+ADR3229,2026-07-03,11.0,,Ibuprofen,Nausea,Mild,25.0,Recovering
+ADR2921,2026-07-06,46.0,F,Salbutamol,Headache,Moderate,26.0,Recovering
+ADR2252,2026-04-29,49.0,Female,Amlodipine,Dizziness,Mild,4.0,Recovered
+ADR2069,2026-05-06,36.0,M,Azithromycin,QT Prolongation,Mild,19.0,Recovered
+ADR2656,2026-08-31,75.0,Female,Amlodipine,Swelling (Edema),Mild,-2.0,Recovered
+ADR2571,2026-02-06,50.0,F,Metformin,Diarrhea,Moderate,,Recovered
+ADR3216,2026-05-11,53.0,female,Metformin,Diarrhea,Serious,,Recovered
+ADR3175,2026-01-02,23.0,,Losartan,Fatigue,Moderate,30.0,Not Recovered
+ADR2007,2026-08-20,23.0,female,Salbutamol,Tremor,Mild,10.0,Recovered
+ADR2615,2026-01-09,82.0,Female,Metformin,Diarrhea,Moderate,10.0,Recovered
+ADR2406,2026-07-12,22.0,female,Azithromycin,Diarrhea,Serious,13.0,Hospitalized
+ADR3094,2026-05-30,89.0,,Cetirizine,Dry Mouth,Moderate,15.0,Not Recovered
+ADR2511,2026-03-07,5.0,Male,Losartan,Dizziness,Moderate,30.0,Recovering
+ADR3198,2026-04-19,,Female,Salbutamol,Tremor,Mild,,Recovered
+ADR3154,2026-02-13,77.0,,Salbutamol,Headache,Mild,8.0,Recovering
+ADR3046,2026-02-12,29.0,,Metformin,Diarrhea,Mild,6.0,Recovered
+ADR2033,2026-06-21,18.0,F,Salbutamol,Headache,Moderate,14.0,Recovered
+ADR2434,2026-06-05,56.0,male,Salbutamol,Palpitations,Mild,1.0,Recovered
+ADR2754,2026-07-20,46.0,Female,Ibuprofen,Rash,Mild,24.0,Recovered
+ADR2214,2026-09-12,36.0,Female,Amlodipine,Swelling (Edema),Mild,20.0,Not Recovered
+ADR2326,2026-05-30,21.0,male,Salbutamol,Headache,Mild,5.0,Recovered
+ADR3120,2026-02-05,47.0,Male,Azithromycin,Diarrhea,Moderate,21.0,Recovering
+ADR2048,2026-05-16,51.0,male,Salbutamol,Tremor,Serious,-2.0,Recovering
+ADR3004,2026-01-18,48.0,M,Losartan,Fatigue,Mild,4.0,Recovered
+ADR2811,2026-01-07,26.0,,Omeprazole,Headache,Mild,-2.0,Not Recovered
+ADR2703,2026-02-17,,male,Losartan,Hyperkalemia,Moderate,11.0,Recovering
+ADR2282,2026-03-11,13.0,F,Cetirizine,Headache,Mild,25.0,Recovered
+ADR2668,2026-04-26,62.0,F,Ibuprofen,Rash,Moderate,14.0,Not Recovered
+ADR2662,2026-08-29,69.0,male,Atorvastatin,Liver Enzyme Elevation,Mild,-2.0,Recovered
+ADR3001,2026-02-12,24.0,M,Azithromycin,Diarrhea,Serious,28.0,Recovering
+ADR2611,2026-01-28,73.0,female,Omeprazole,Headache,Moderate,26.0,Recovered
+ADR3070,2026-02-28,55.0,F,Atorvastatin,Muscle Pain,Mild,17.0,Recovered
+ADR2766,2026-05-26,90.0,,Amlodipine,Dizziness,Mild,16.0,Recovering
+ADR3003,2026-05-21,70.0,Male,Warfarin,Rash,Mild,-2.0,Recovered
+ADR2972,2026-02-28,,male,Amlodipine,Swelling (Edema),Serious,-2.0,Recovered
+ADR2500,2026-01-02,59.0,Male,Amlodipine,Swelling (Edema),Serious,27.0,Recovered
+ADR2558,2026-04-10,9.0,,Warfarin,Rash,Moderate,9.0,Recovered
+ADR3110,2026-06-01,39.0,F,Metformin,Abdominal Pain,Mild,25.0,Recovered
+ADR2560,2026-08-28,86.0,,Azithromycin,QT Prolongation,Moderate,,Recovered
+ADR2573,2026-06-25,54.0,M,Azithromycin,QT Prolongation,Moderate,24.0,Recovered
+ADR2784,2026-07-05,34.0,M,Cetirizine,Drowsiness,Mild,16.0,Recovered
+ADR2758,2026-07-16,,Male,Ibuprofen,Stomach Ulcer,Serious,15.0,Recovered
+ADR2026,2026-08-18,58.0,,Atorvastatin,Muscle Pain,Mild,3.0,Recovered
+ADR3038,2026-05-01,73.0,Male,Cetirizine,Drowsiness,Moderate,22.0,Recovered
+ADR2208,2026-05-09,85.0,M,Insulin,Injection Site Reaction,Moderate,19.0,Recovering
+ADR2503,2026-08-03,16.0,,Azithromycin,QT Prolongation,Mild,18.0,Recovered
+ADR2394,2026-02-09,10.0,Female,Azithromycin,QT Prolongation,Moderate,25.0,Recovered
+ADR2364,2026-05-12,86.0,F,Azithromycin,Nausea,Mild,,Recovered
+ADR2495,2026-02-27,80.0,female,Salbutamol,Palpitations,Moderate,-2.0,Recovering
+ADR2369,2026-06-28,48.0,Male,Salbutamol,Headache,Moderate,10.0,Not Recovered
+ADR2416,2026-06-30,73.0,Female,Metformin,Abdominal Pain,Moderate,,Recovered
+ADR2993,2026-07-12,90.0,,Metformin,Nausea,Mild,7.0,Hospitalized
+ADR2637,2026-04-22,,M,Ibuprofen,Rash,Mild,5.0,Recovered
+ADR2603,2026-05-04,79.0,Female,Ibuprofen,Rash,Mild,4.0,Recovered
+ADR3224,2026-08-03,12.0,male,Warfarin,Bleeding,Mild,27.0,Recovering
+ADR2802,2026-05-23,83.0,F,Atorvastatin,Headache,Mild,16.0,Recovered
+ADR2769,2026-03-04,49.0,M,Azithromycin,Diarrhea,Moderate,30.0,Recovered
+ADR2593,2026-07-31,55.0,M,Atorvastatin,Liver Enzyme Elevation,Serious,7.0,Hospitalized
+ADR2370,2026-05-16,75.0,,Insulin,Injection Site Reaction,Serious,30.0,Hospitalized
+ADR2284,2026-07-07,32.0,Male,Warfarin,Bleeding,Mild,2.0,Recovered
+ADR2839,2026-07-06,55.0,Female,Salbutamol,Headache,Serious,23.0,Recovered
+ADR2938,2026-06-28,,F,Salbutamol,Palpitations,Moderate,-2.0,Recovered
+ADR3158,2026-07-11,43.0,Female,Atorvastatin,Muscle Pain,Moderate,-2.0,Recovered
+ADR2295,2026-02-07,89.0,,Ibuprofen,Nausea,Mild,16.0,Recovered
+ADR2645,2026-06-06,41.0,,Amlodipine,Dizziness,Mild,-2.0,Recovered
+ADR2211,2026-01-14,78.0,Male,Metformin,Diarrhea,Mild,3.0,Recovered
+ADR3108,2026-02-09,88.0,Female,Losartan,Dizziness,Mild,13.0,Recovering
+ADR3005,2026-08-17,71.0,F,Salbutamol,Palpitations,Mild,3.0,Recovered
+ADR2343,2026-09-14,30.0,female,Losartan,Fatigue,Mild,21.0,Recovered
+ADR2265,2026-02-23,11.0,M,Paracetamol,Nausea,Mild,-2.0,Recovering
+ADR2038,2026-04-08,5.0,Female,Losartan,Fatigue,Mild,4.0,Recovered
+ADR2331,2026-04-16,25.0,F,Losartan,Hyperkalemia,Mild,,Recovered
+ADR2667,2026-01-30,84.0,Male,Insulin,Injection Site Reaction,Moderate,19.0,Recovered
+ADR3132,2026-03-28,16.0,Female,Omeprazole,Nausea,Mild,15.0,Recovered
+ADR2788,2026-03-17,22.0,Male,Paracetamol,Nausea,Mild,-2.0,Recovered
+ADR2563,2026-08-18,20.0,male,Losartan,Dizziness,Moderate,5.0,Recovered
+ADR2760,2026-08-15,38.0,female,Cetirizine,Dry Mouth,Mild,12.0,Not Recovered
+ADR2270,2026-03-14,39.0,Female,Paracetamol,Nausea,Moderate,1.0,Recovered
+ADR2746,2026-09-17,41.0,M,Amlodipine,Swelling (Edema),Mild,14.0,Recovered
+ADR3107,2026-05-01,,M,Atorvastatin,Liver Enzyme Elevation,Mild,,Recovered
+ADR2203,2026-02-03,81.0,Male,Atorvastatin,Muscle Pain,Mild,11.0,Recovering
+ADR2015,2026-04-19,88.0,F,Losartan,Dizziness,Mild,16.0,Recovering
+ADR3022,2026-06-14,83.0,M,Amlodipine,Flushing,Mild,4.0,Recovered
+ADR2954,2026-06-03,,M,Cetirizine,Headache,Moderate,9.0,Recovered
+ADR2732,2026-02-14,26.0,Female,Salbutamol,Headache,Mild,15.0,Not Recovered
+ADR2905,2026-05-14,88.0,,Losartan,Hyperkalemia,Serious,7.0,Recovered
+ADR3206,2026-07-31,,F,Atorvastatin,Liver Enzyme Elevation,Serious,16.0,Recovering
+ADR2452,2026-07-30,,female,Insulin,Injection Site Reaction,Moderate,17.0,Recovered
+ADR2520,2026-01-25,44.0,female,Cetirizine,Drowsiness,Serious,30.0,Recovering
+ADR2724,2026-04-16,75.0,Female,Losartan,Fatigue,Serious,25.0,Hospitalized
+ADR3007,2026-01-07,40.0,F,Insulin,Injection Site Reaction,Mild,26.0,Recovered
+ADR2974,2026-01-18,70.0,,Azithromycin,QT Prolongation,Mild,-2.0,Recovering
+ADR2100,2026-05-08,66.0,M,Warfarin,Bleeding,Mild,18.0,Recovered
+ADR2113,2026-05-20,78.0,Female,Paracetamol,Rash,Moderate,16.0,Recovered
+ADR2005,2026-01-20,48.0,female,Metformin,Diarrhea,Mild,5.0,Recovered
+ADR2042,2026-02-06,24.0,male,Paracetamol,Nausea,Mild,10.0,Recovered
+ADR2052,2026-08-06,70.0,Male,Azithromycin,QT Prolongation,Moderate,6.0,Recovered
+ADR2363,2026-03-14,,Male,Warfarin,Bruising,Mild,-2.0,Recovered
+ADR2767,2026-07-07,,M,Amlodipine,Swelling (Edema),Mild,,Recovered
+ADR2004,2026-03-05,52.0,Female,Warfarin,Bleeding,Moderate,24.0,Recovering
+ADR2153,2026-08-17,81.0,M,Ibuprofen,Nausea,Serious,4.0,Recovering
+ADR2805,2026-03-09,16.0,Female,Azithromycin,Nausea,Moderate,7.0,Recovering
+ADR2147,2026-07-02,70.0,male,Omeprazole,Vitamin B12 Deficiency,Serious,6.0,Recovering
+ADR2091,2026-04-06,,female,Salbutamol,Tremor,Serious,15.0,Recovering
+ADR3103,2026-01-24,80.0,M,Losartan,Hyperkalemia,Mild,5.0,Recovered
+ADR2195,2026-05-19,83.0,Female,Amlodipine,Swelling (Edema),Mild,24.0,Recovering
+ADR3155,2026-08-21,,male,Atorvastatin,Muscle Pain,Moderate,5.0,Recovered
+ADR2736,2026-07-14,39.0,M,Losartan,Hyperkalemia,Moderate,17.0,Recovering
+ADR2536,2026-02-22,10.0,Female,Salbutamol,Tremor,Moderate,23.0,Recovering
+ADR2105,2026-08-08,51.0,male,Warfarin,Bleeding,Mild,,Recovered
+ADR2550,2026-01-15,,M,Amlodipine,Dizziness,Mild,4.0,Recovered
+ADR2566,2026-04-11,76.0,female,Salbutamol,Palpitations,Mild,,Recovering
+ADR2878,2026-01-20,39.0,male,Cetirizine,Drowsiness,Mild,17.0,Recovered
+ADR2255,2026-07-27,39.0,Female,Losartan,Dizziness,Mild,3.0,Recovering
+ADR2965,2026-07-30,35.0,male,Omeprazole,Nausea,Mild,,Recovered
+ADR2635,2026-01-19,8.0,male,Atorvastatin,Headache,Mild,,Recovering
+ADR2979,2026-02-02,48.0,male,Salbutamol,Headache,Mild,25.0,Recovering
+ADR3164,2026-07-01,52.0,M,Omeprazole,Headache,Mild,8.0,Recovered
+ADR2638,2026-08-30,16.0,female,Amlodipine,Dizziness,Mild,-2.0,Recovered
+ADR2903,2026-03-12,10.0,Female,Insulin,Weight Gain,Serious,6.0,Recovering
+ADR2445,2026-03-16,35.0,female,Ibuprofen,Rash,Serious,29.0,Recovering
+ADR3129,2026-03-28,,female,Insulin,Weight Gain,Serious,1.0,Recovering
+ADR2821,2026-08-10,,female,Paracetamol,Nausea,Mild,13.0,Recovering
+ADR2841,2026-06-04,88.0,M,Cetirizine,Drowsiness,Mild,,Recovering
+ADR2192,2026-03-21,26.0,,Omeprazole,Nausea,Mild,-2.0,Recovered
+ADR2499,2026-01-31,73.0,Male,Warfarin,Bruising,Moderate,23.0,Recovered
+ADR2691,2026-08-04,41.0,,Metformin,Diarrhea,Mild,11.0,Recovered
+ADR3014,2026-08-17,67.0,Male,Salbutamol,Headache,Mild,,Not Recovered
+ADR2534,2026-01-30,81.0,Male,Azithromycin,Diarrhea,Mild,-2.0,Recovered
+ADR2313,2026-08-27,73.0,female,Losartan,Fatigue,Serious,15.0,Not Recovered
+ADR3160,2026-04-24,,,Azithromycin,Diarrhea,Mild,21.0,Recovered
+ADR2710,2026-06-23,82.0,female,Amlodipine,Dizziness,Mild,1.0,Recovered
+ADR2047,2026-02-27,12.0,F,Losartan,Dizziness,Serious,-2.0,Hospitalized
+ADR2721,2026-01-25,52.0,Female,Cetirizine,Headache,Mild,29.0,Recovered
+ADR2009,2026-02-27,,M,Insulin,Weight Gain,Serious,,Recovered
+ADR2674,2026-03-13,69.0,female,Atorvastatin,Muscle Pain,Mild,22.0,Recovered
+ADR3140,2026-01-18,53.0,F,Ibuprofen,Nausea,Mild,13.0,Recovered
+ADR2090,2026-04-27,42.0,Female,Azithromycin,QT Prolongation,Moderate,10.0,Recovered
+ADR2915,2026-07-31,,Male,Azithromycin,Nausea,Moderate,23.0,Recovered
+ADR2276,2026-07-10,68.0,M,Omeprazole,Headache,Moderate,16.0,Recovered
+ADR2477,2026-08-12,38.0,,Salbutamol,Headache,Mild,28.0,Recovered
+ADR2288,2026-01-27,,female,Atorvastatin,Headache,Mild,23.0,Not Recovered
+ADR2519,2026-01-07,36.0,male,Losartan,Hyperkalemia,Moderate,29.0,Recovered
+ADR2501,2026-01-28,42.0,Male,Warfarin,Bruising,Moderate,,Recovered
+ADR2595,2026-09-10,81.0,Male,Cetirizine,Headache,Mild,30.0,Recovering
+ADR2316,2026-01-22,70.0,female,Warfarin,Rash,Mild,23.0,Recovered
+ADR2774,2026-05-13,30.0,M,Atorvastatin,Liver Enzyme Elevation,Serious,27.0,Recovered
+ADR2384,2026-03-12,81.0,,Amlodipine,Flushing,Mild,11.0,Recovered
+ADR2360,2026-03-05,41.0,male,Salbutamol,Palpitations,Mild,30.0,Recovered
+ADR3247,2026-08-04,39.0,M,Amlodipine,Dizziness,Moderate,1.0,Recovered
+ADR2985,2026-01-24,83.0,Female,Losartan,Fatigue,Mild,19.0,Recovered
+ADR2785,2026-02-01,90.0,female,Amlodipine,Flushing,Mild,19.0,Recovering
+ADR2012,2026-05-06,49.0,M,Ibuprofen,Rash,Moderate,13.0,Recovered
+ADR2075,2026-06-19,51.0,Male,Losartan,Dizziness,Moderate,16.0,Recovered
+ADR2193,2026-06-11,28.0,M,Ibuprofen,Rash,Mild,30.0,Not Recovered
+ADR2177,2026-06-05,23.0,F,Amlodipine,Swelling (Edema),Moderate,17.0,Recovered
+ADR3095,2026-02-10,,F,Amlodipine,Swelling (Edema),Mild,12.0,Recovered
+ADR2071,2026-05-12,79.0,Female,Losartan,Dizziness,Serious,2.0,Not Recovered
+ADR2918,2026-06-01,28.0,Male,Losartan,Fatigue,Moderate,,Recovered
+ADR2175,2026-02-28,34.0,M,Amlodipine,Dizziness,Mild,5.0,Not Recovered
+ADR2789,2026-01-07,35.0,M,Azithromycin,QT Prolongation,Mild,12.0,Not Recovered
+ADR2869,2026-06-13,10.0,Male,Paracetamol,Rash,Mild,27.0,Recovered
+ADR2440,2026-01-10,64.0,Male,Salbutamol,Palpitations,Moderate,13.0,Recovered
+ADR3125,2026-04-18,58.0,Male,Warfarin,Bruising,Moderate,29.0,Recovered
+ADR3018,2026-05-23,5.0,male,Azithromycin,Diarrhea,Mild,26.0,Hospitalized
+ADR2973,2026-08-18,9.0,F,Azithromycin,QT Prolongation,Serious,22.0,Hospitalized
+ADR2185,2026-04-24,43.0,,Metformin,Nausea,Mild,29.0,Recovered
+ADR2387,2026-08-16,82.0,female,Amlodipine,Dizziness,Moderate,11.0,Recovered
+ADR2723,2026-06-05,40.0,Male,Amlodipine,Swelling (Edema),Moderate,-2.0,Recovering
+ADR2021,2026-01-30,75.0,M,Salbutamol,Tremor,Moderate,,Recovering
+ADR3214,2026-06-17,78.0,F,Paracetamol,Liver Enzyme Elevation,Mild,13.0,Recovered
+ADR3090,2026-02-03,,,Insulin,Hypoglycemia,Mild,13.0,Not Recovered
+ADR3066,2026-09-14,23.0,male,Salbutamol,Palpitations,Mild,12.0,Recovered
+ADR3148,2026-01-11,89.0,M,Cetirizine,Headache,Mild,1.0,Recovered
+ADR2556,2026-07-23,,F,Ibuprofen,Rash,Moderate,22.0,Recovered
+ADR2179,2026-07-04,76.0,F,Warfarin,Rash,Moderate,-2.0,Not Recovered
+ADR2176,2026-03-29,68.0,female,Losartan,Dizziness,Mild,1.0,Recovering
+ADR2756,2026-02-27,68.0,F,Metformin,Abdominal Pain,Moderate,4.0,Recovering
+ADR2138,2026-07-03,61.0,F,Losartan,Fatigue,Moderate,28.0,Recovered
+ADR2559,2026-04-17,21.0,female,Cetirizine,Dry Mouth,Mild,5.0,Recovered
+ADR2152,2026-03-15,18.0,male,Atorvastatin,Muscle Pain,Moderate,2.0,Recovering
+ADR2381,2026-02-06,50.0,M,Losartan,Dizziness,Moderate,20.0,Hospitalized
+ADR2526,2026-08-10,53.0,Male,Cetirizine,Drowsiness,Mild,16.0,Recovered
+ADR3135,2026-01-21,29.0,female,Losartan,Fatigue,Serious,2.0,Recovered
+ADR3043,2026-08-22,80.0,F,Losartan,Hyperkalemia,Mild,6.0,Recovered
+ADR2692,2026-07-19,69.0,Male,Salbutamol,Palpitations,Serious,-2.0,Hospitalized
+ADR2222,2026-04-17,81.0,female,Ibuprofen,Stomach Ulcer,Mild,,Recovering
+ADR2411,2026-09-03,67.0,male,Insulin,Hypoglycemia,Serious,25.0,Not Recovered
+ADR2072,2026-05-16,25.0,male,Warfarin,Bruising,Moderate,12.0,Recovered
+ADR2020,2026-03-27,46.0,female,Ibuprofen,Nausea,Mild,29.0,Recovered
+ADR2278,2026-06-30,42.0,female,Losartan,Fatigue,Moderate,1.0,Not Recovered
+ADR2289,2026-06-20,47.0,Female,Ibuprofen,Rash,Moderate,9.0,Recovered
+ADR2467,2026-07-18,15.0,male,Losartan,Hyperkalemia,Serious,26.0,Recovered
+ADR3040,2026-02-11,12.0,Female,Amlodipine,Dizziness,Mild,6.0,Recovering
+ADR3222,2026-03-30,55.0,male,Metformin,Nausea,Mild,28.0,Recovering
+ADR3023,2026-05-14,78.0,F,Omeprazole,Vitamin B12 Deficiency,Serious,14.0,Hospitalized
+ADR2037,2026-01-21,85.0,Male,Azithromycin,Diarrhea,Moderate,,Recovered
+ADR2823,2026-04-27,53.0,female,Metformin,Nausea,Moderate,27.0,Recovered
+ADR2367,2026-06-21,29.0,Male,Paracetamol,Liver Enzyme Elevation,Mild,5.0,Recovered
+ADR2095,2026-03-23,33.0,Male,Ibuprofen,Rash,Mild,30.0,Not Recovered
+ADR3163,2026-02-01,,female,Cetirizine,Headache,Mild,27.0,Recovering
+ADR2584,2026-09-17,21.0,male,Insulin,Weight Gain,Moderate,17.0,Recovering
+ADR3208,2026-01-21,57.0,F,Losartan,Dizziness,Moderate,28.0,Recovering
+ADR2879,2026-01-21,,F,Warfarin,Rash,Serious,16.0,Recovered
+ADR2764,2026-04-12,27.0,male,Losartan,Hyperkalemia,Moderate,,Recovering
+ADR2700,2026-05-19,29.0,F,Azithromycin,Diarrhea,Serious,3.0,Recovered
+ADR2955,2026-04-05,75.0,M,Metformin,Abdominal Pain,Mild,14.0,Recovered
+ADR2962,2026-05-13,88.0,Female,Atorvastatin,Headache,Mild,24.0,Recovered
+ADR2655,2026-08-05,30.0,,Omeprazole,Headache,Serious,-2.0,Recovered
+ADR2422,2026-04-24,89.0,,Metformin,Abdominal Pain,Moderate,14.0,Recovered
+ADR3233,2026-04-02,19.0,Female,Atorvastatin,Muscle Pain,Mild,30.0,Recovered
+ADR2912,2026-03-24,48.0,female,Omeprazole,Nausea,Serious,4.0,Recovered
+ADR2625,2026-09-16,54.0,,Cetirizine,Drowsiness,Mild,19.0,Recovered
+ADR2321,2026-09-02,40.0,M,Azithromycin,Nausea,Moderate,,Recovering
+ADR2064,2026-04-25,56.0,F,Paracetamol,Nausea,Mild,21.0,Recovered
+ADR3195,2026-08-20,71.0,male,Losartan,Hyperkalemia,Moderate,7.0,Recovered
+ADR2198,2026-03-04,20.0,M,Ibuprofen,Stomach Ulcer,Serious,20.0,Hospitalized
+ADR2535,2026-08-27,52.0,,Salbutamol,Headache,Moderate,29.0,Recovered
+ADR2792,2026-05-16,65.0,,Azithromycin,Diarrhea,Mild,27.0,Recovered
+ADR2139,2026-09-09,70.0,M,Losartan,Dizziness,Moderate,27.0,Recovering
+ADR3011,2026-03-19,,male,Insulin,Weight Gain,Moderate,4.0,Recovered
+ADR2124,2026-01-19,10.0,M,Atorvastatin,Liver Enzyme Elevation,Mild,29.0,Recovering
+ADR2742,2026-07-16,89.0,female,Atorvastatin,Liver Enzyme Elevation,Serious,25.0,Recovered
+ADR2266,2026-01-30,65.0,M,Atorvastatin,Muscle Pain,Mild,-2.0,Not Recovered
+ADR3087,2026-05-08,35.0,,Omeprazole,Vitamin B12 Deficiency,Mild,,Recovered
+ADR2374,2026-08-30,58.0,M,Salbutamol,Tremor,Mild,,Recovered
+ADR2678,2026-05-19,76.0,Male,Atorvastatin,Muscle Pain,Mild,24.0,Not Recovered
+ADR3234,2026-09-13,60.0,M,Cetirizine,Drowsiness,Serious,3.0,Recovered
+ADR2923,2026-03-08,80.0,Female,Cetirizine,Drowsiness,Mild,14.0,Recovered
+ADR2658,2026-03-17,43.0,F,Omeprazole,Nausea,Mild,7.0,Recovered
+ADR2455,2026-01-13,36.0,M,Metformin,Diarrhea,Mild,-2.0,Recovered
+ADR3124,2026-04-26,37.0,female,Losartan,Hyperkalemia,Mild,,Recovering
+ADR2992,2026-04-11,38.0,male,Ibuprofen,Rash,Serious,22.0,Recovered
+ADR2601,2026-05-23,51.0,Female,Losartan,Dizziness,Serious,24.0,Recovered
+ADR2577,2026-07-04,67.0,female,Paracetamol,Nausea,Moderate,12.0,Recovered
+ADR2888,2026-03-18,7.0,M,Losartan,Dizziness,Moderate,23.0,Recovered
+ADR2770,2026-05-02,26.0,F,Salbutamol,Tremor,Mild,10.0,Hospitalized
+ADR2561,2026-02-02,69.0,Male,Azithromycin,Nausea,Moderate,7.0,Recovered
+ADR2043,2026-03-24,29.0,male,Ibuprofen,Rash,Mild,12.0,Recovered
+ADR2174,2026-03-08,36.0,M,Salbutamol,Tremor,Serious,22.0,Recovered
+ADR2108,2026-07-14,64.0,Female,Salbutamol,Palpitations,Moderate,5.0,Recovered
+ADR2253,2026-07-19,19.0,,Losartan,Dizziness,Mild,3.0,Recovering
+ADR3063,2026-04-22,29.0,M,Paracetamol,Liver Enzyme Elevation,Moderate,27.0,Recovered
+ADR2051,2026-04-18,8.0,M,Paracetamol,Nausea,Moderate,25.0,Recovering
+ADR2234,2026-08-11,14.0,male,Losartan,Fatigue,Mild,26.0,Not Recovered
+ADR2269,2026-07-09,40.0,Female,Warfarin,Bleeding,Serious,23.0,Recovered
+ADR2403,2026-04-28,42.0,male,Cetirizine,Headache,Moderate,21.0,Recovered
+ADR2944,2026-06-19,87.0,F,Azithromycin,Nausea,Mild,30.0,Recovering
+ADR2549,2026-08-03,49.0,F,Losartan,Hyperkalemia,Mild,3.0,Recovered
+ADR2398,2026-05-21,,male,Atorvastatin,Headache,Serious,7.0,Recovered
+ADR2274,2026-08-29,17.0,male,Warfarin,Rash,Serious,25.0,Recovering
+ADR3111,2026-09-10,11.0,F,Losartan,Dizziness,Moderate,4.0,Recovering
+ADR3039,2026-09-02,41.0,F,Cetirizine,Headache,Mild,29.0,Recovered
+ADR2498,2026-04-20,51.0,F,Warfarin,Bleeding,Moderate,30.0,Recovered
+ADR2990,2026-05-21,82.0,F,Salbutamol,Tremor,Mild,9.0,Not Recovered
+ADR3174,2026-06-28,6.0,,Amlodipine,Dizziness,Moderate,4.0,Recovered
+ADR3238,2026-05-01,26.0,male,Insulin,Hypoglycemia,Mild,18.0,Recovered
+ADR2935,2026-06-26,85.0,male,Metformin,Diarrhea,Moderate,12.0,Recovered
+ADR2415,2026-07-29,55.0,female,Insulin,Weight Gain,Moderate,13.0,Recovered
+ADR2483,2026-03-11,64.0,M,Omeprazole,Headache,Serious,7.0,Recovered
+ADR2564,2026-01-25,33.0,F,Azithromycin,QT Prolongation,Moderate,23.0,Recovered
+ADR3190,2026-07-24,89.0,Male,Omeprazole,Headache,Moderate,11.0,Recovering
+ADR2948,2026-06-11,18.0,Male,Omeprazole,Headache,Serious,,Recovering
+ADR2366,2026-07-05,87.0,M,Amlodipine,Flushing,Mild,,Recovered
+ADR2525,2026-06-14,30.0,female,Losartan,Fatigue,Moderate,5.0,Recovered
+ADR2303,2026-05-22,,Female,Paracetamol,Nausea,Serious,6.0,Recovering
+ADR3223,2026-04-16,15.0,,Warfarin,Bruising,Moderate,19.0,Recovered
+ADR2340,2026-01-29,38.0,Male,Atorvastatin,Liver Enzyme Elevation,Moderate,1.0,Recovered
+ADR2579,2026-02-08,31.0,Female,Ibuprofen,Nausea,Mild,27.0,Recovered
+ADR2039,2026-06-08,78.0,M,Metformin,Diarrhea,Mild,27.0,Recovered
+ADR2609,2026-03-22,64.0,M,Ibuprofen,Rash,Mild,24.0,Recovered
+ADR2380,2026-08-21,75.0,Male,Salbutamol,Headache,Mild,26.0,Recovered
+ADR2491,2026-04-05,42.0,Male,Metformin,Abdominal Pain,Mild,27.0,Recovered
+ADR2636,2026-08-25,55.0,F,Ibuprofen,Nausea,Mild,16.0,Recovered
+ADR3024,2026-06-29,16.0,Female,Azithromycin,QT Prolongation,Mild,14.0,Recovered
+ADR2049,2026-04-16,28.0,M,Salbutamol,Headache,Moderate,29.0,Recovered
+ADR2896,2026-08-01,90.0,Male,Insulin,Injection Site Reaction,Mild,6.0,Hospitalized
+ADR2984,2026-07-01,60.0,Female,Insulin,Weight Gain,Mild,27.0,Recovered
+ADR2771,2026-04-06,85.0,female,Warfarin,Bruising,Mild,15.0,Recovered
+ADR2682,2026-04-11,17.0,female,Omeprazole,Headache,Serious,,Hospitalized
+ADR2528,2026-07-08,52.0,,Omeprazole,Headache,Mild,16.0,Recovered
+ADR2648,2026-06-04,19.0,,Atorvastatin,Liver Enzyme Elevation,Mild,17.0,Recovered
+ADR2397,2026-07-27,49.0,male,Metformin,Nausea,Serious,10.0,Not Recovered
+ADR2074,2026-02-24,61.0,Male,Salbutamol,Tremor,Mild,12.0,Recovered
+ADR2251,2026-07-04,64.0,Male,Insulin,Weight Gain,Moderate,-2.0,Recovered
+ADR2628,2026-06-02,90.0,Male,Amlodipine,Flushing,Mild,25.0,Recovered
+ADR2016,2026-06-07,81.0,female,Atorvastatin,Muscle Pain,Serious,19.0,Recovered
+ADR2263,2026-04-28,26.0,F,Ibuprofen,Rash,Mild,-2.0,Recovering
+ADR2014,2026-03-19,55.0,,Metformin,Diarrhea,Mild,11.0,Recovering
+ADR3197,2026-02-26,39.0,Female,Salbutamol,Headache,Moderate,26.0,Recovered
+ADR2971,2026-03-19,62.0,female,Paracetamol,Rash,Mild,27.0,Recovered
+ADR2793,2026-03-12,83.0,F,Losartan,Hyperkalemia,Moderate,11.0,Not Recovered
+ADR2928,2026-03-07,44.0,Male,Cetirizine,Headache,Serious,23.0,Recovered
+ADR2808,2026-04-30,23.0,Male,Salbutamol,Headache,Mild,,Recovered
+ADR2874,2026-04-23,60.0,female,Losartan,Dizziness,Moderate,13.0,Recovered
+ADR2806,2026-04-02,22.0,M,Azithromycin,QT Prolongation,Moderate,7.0,Recovered
+ADR2688,2026-04-20,80.0,Female,Losartan,Dizziness,Mild,,Recovered
+ADR2309,2026-02-11,53.0,male,Atorvastatin,Liver Enzyme Elevation,Serious,-2.0,Recovered
+ADR3035,2026-02-15,74.0,Male,Paracetamol,Nausea,Serious,18.0,Hospitalized
+ADR2783,2026-03-20,85.0,,Warfarin,Bruising,Moderate,10.0,Recovered
+ADR3218,2026-08-20,23.0,female,Paracetamol,Nausea,Mild,6.0,Recovering
+ADR2651,2026-06-15,72.0,F,Ibuprofen,Stomach Ulcer,Serious,2.0,Not Recovered
+ADR2580,2026-02-22,47.0,female,Losartan,Dizziness,Mild,8.0,Recovered
+ADR2576,2026-08-15,63.0,,Salbutamol,Palpitations,Mild,8.0,Recovered
+ADR2872,2026-06-09,22.0,M,Losartan,Hyperkalemia,Mild,2.0,Recovered
+ADR3151,2026-06-11,67.0,male,Warfarin,Bruising,Moderate,19.0,Recovered
+ADR2186,2026-08-23,11.0,Male,Atorvastatin,Muscle Pain,Mild,1.0,Recovered
+ADR2085,2026-08-26,49.0,F,Warfarin,Rash,Mild,14.0,Recovered
+ADR2148,2026-01-21,76.0,female,Amlodipine,Flushing,Moderate,14.0,Recovered
+ADR3015,2026-06-02,47.0,M,Metformin,Abdominal Pain,Mild,26.0,Recovered
+ADR2744,2026-07-08,11.0,male,Azithromycin,QT Prolongation,Serious,-2.0,Recovering
+ADR3204,2026-07-20,84.0,female,Omeprazole,Nausea,Mild,27.0,Recovered
+ADR2362,2026-09-17,74.0,female,Insulin,Injection Site Reaction,Mild,4.0,Recovered
+ADR2829,2026-07-08,35.0,Male,Salbutamol,Headache,Mild,18.0,Recovered
+ADR3220,2026-03-21,27.0,Male,Losartan,Fatigue,Moderate,19.0,Recovered
+ADR2407,2026-08-16,84.0,female,Losartan,Fatigue,Mild,22.0,Not Recovered
+ADR2652,2026-06-16,71.0,Female,Cetirizine,Drowsiness,Mild,6.0,Recovering
+ADR2587,2026-03-18,37.0,,Amlodipine,Dizziness,Moderate,11.0,Recovered
+ADR2679,2026-03-13,51.0,M,Ibuprofen,Nausea,Mild,-2.0,Recovered
+ADR2488,2026-01-10,67.0,M,Cetirizine,Dry Mouth,Mild,17.0,Recovered
+ADR2994,2026-01-26,50.0,Male,Salbutamol,Headache,Mild,22.0,Hospitalized
+ADR2217,2026-06-20,17.0,male,Cetirizine,Drowsiness,Mild,10.0,Not Recovered
+ADR2931,2026-01-15,45.0,Female,Ibuprofen,Nausea,Moderate,20.0,Recovered
+ADR3231,2026-01-26,32.0,M,Losartan,Dizziness,Mild,8.0,Recovered
+ADR2156,2026-05-22,24.0,M,Amlodipine,Dizziness,Mild,14.0,Recovering
+ADR2614,2026-09-18,41.0,Male,Paracetamol,Nausea,Mild,11.0,Recovered
+ADR3157,2026-04-13,84.0,Female,Omeprazole,Vitamin B12 Deficiency,Mild,10.0,Recovered
+ADR2298,2026-08-12,80.0,F,Cetirizine,Dry Mouth,Mild,3.0,Recovered
+ADR3142,2026-03-17,60.0,F,Atorvastatin,Liver Enzyme Elevation,Mild,3.0,Recovered
+ADR2881,2026-05-30,61.0,Male,Ibuprofen,Rash,Mild,,Recovered
+ADR2233,2026-08-12,40.0,M,Amlodipine,Flushing,Mild,4.0,Recovered
+ADR2897,2026-09-07,36.0,M,Amlodipine,Dizziness,Mild,26.0,Recovered
+ADR2318,2026-06-19,,female,Losartan,Hyperkalemia,Serious,14.0,Recovered
+ADR2428,2026-06-21,76.0,female,Atorvastatin,Headache,Mild,12.0,Recovered
+ADR2570,2026-03-23,24.0,M,Metformin,Diarrhea,Moderate,15.0,Recovered
+ADR2277,2026-03-29,90.0,F,Azithromycin,QT Prolongation,Serious,14.0,Hospitalized
+ADR2068,2026-04-15,85.0,Male,Ibuprofen,Rash,Moderate,25.0,Recovering
+ADR2844,2026-06-13,9.0,male,Warfarin,Bleeding,Serious,-2.0,Recovered
+ADR2731,2026-06-16,71.0,Male,Omeprazole,Nausea,Moderate,-2.0,Recovered
+ADR2027,2026-07-25,61.0,M,Metformin,Abdominal Pain,Moderate,17.0,Recovered
+ADR2115,2026-09-12,8.0,male,Omeprazole,Nausea,Moderate,3.0,Not Recovered
+ADR2663,2026-07-27,52.0,Female,Warfarin,Bleeding,Mild,19.0,Recovered
+ADR3009,2026-06-04,10.0,Female,Insulin,Hypoglycemia,Mild,27.0,Recovered
+ADR2204,2026-02-06,90.0,Female,Losartan,Fatigue,Serious,15.0,Recovered
+ADR3098,2026-09-12,32.0,male,Azithromycin,Diarrhea,Moderate,3.0,Recovered
+ADR2546,2026-06-30,88.0,,Azithromycin,QT Prolongation,Moderate,-2.0,Recovered
+ADR2161,2026-03-09,5.0,F,Omeprazole,Vitamin B12 Deficiency,Moderate,20.0,Recovered
+ADR2350,2026-03-30,,M,Atorvastatin,Headache,Moderate,13.0,Recovered
+ADR2216,2026-03-18,66.0,F,Paracetamol,Liver Enzyme Elevation,Moderate,28.0,Recovering
+ADR2982,2026-06-22,6.0,,Azithromycin,Nausea,Moderate,7.0,Recovered
+ADR2106,2026-03-29,34.0,Male,Omeprazole,Vitamin B12 Deficiency,Mild,11.0,Recovering
+ADR2861,2026-07-08,54.0,F,Insulin,Hypoglycemia,Serious,1.0,Recovered
+ADR2798,2026-02-21,82.0,Male,Azithromycin,Nausea,Mild,9.0,Recovered
+ADR2832,2026-02-06,49.0,female,Amlodipine,Flushing,Moderate,7.0,Recovered
+ADR2119,2026-01-27,31.0,Female,Azithromycin,Diarrhea,Mild,21.0,Recovered
+ADR3173,2026-01-20,86.0,M,Paracetamol,Nausea,Mild,19.0,Recovered
+ADR2330,2026-04-28,,,Metformin,Abdominal Pain,Mild,-2.0,Recovered
+ADR2594,2026-03-02,57.0,,Azithromycin,Nausea,Moderate,11.0,Recovered
+ADR2094,2026-09-08,,,Losartan,Dizziness,Moderate,13.0,Recovering
+ADR2514,2026-09-01,40.0,F,Warfarin,Bruising,Moderate,16.0,Not Recovered
+ADR2029,2026-01-20,46.0,Female,Losartan,Dizziness,Mild,21.0,Recovered
+ADR2191,2026-01-27,12.0,M,Salbutamol,Palpitations,Mild,29.0,Not Recovered
+ADR2388,2026-07-02,43.0,F,Cetirizine,Headache,Mild,11.0,Recovered
+ADR2332,2026-01-16,63.0,,Losartan,Dizziness,Mild,1.0,Recovering
+ADR2293,2026-07-31,83.0,M,Cetirizine,Drowsiness,Mild,14.0,Recovering
+ADR3012,2026-07-26,76.0,Male,Omeprazole,Vitamin B12 Deficiency,Mild,,Recovered
+ADR2531,2026-08-16,27.0,M,Amlodipine,Dizziness,Mild,13.0,Recovered
+ADR3237,2026-01-02,34.0,Female,Salbutamol,Palpitations,Mild,4.0,Recovering
+ADR2735,2026-06-17,65.0,,Paracetamol,Nausea,Mild,8.0,Recovered
+ADR2084,2026-07-31,79.0,F,Atorvastatin,Muscle Pain,Mild,15.0,Recovering
+ADR2605,2026-03-02,,male,Ibuprofen,Rash,Moderate,4.0,Recovered
+ADR2475,2026-01-13,60.0,female,Metformin,Abdominal Pain,Mild,1.0,Recovered
+ADR2547,2026-08-19,64.0,,Cetirizine,Dry Mouth,Mild,,Recovered
+ADR2751,2026-01-21,54.0,male,Salbutamol,Palpitations,Mild,21.0,Recovered
+ADR2461,2026-09-03,22.0,Female,Losartan,Hyperkalemia,Mild,-2.0,Recovering
+ADR2096,2026-07-08,50.0,M,Paracetamol,Nausea,Moderate,24.0,Recovered
+ADR2213,2026-09-14,71.0,,Warfarin,Bruising,Serious,23.0,Recovered
+ADR3147,2026-06-12,6.0,M,Insulin,Hypoglycemia,Serious,11.0,Recovering
+ADR2429,2026-06-04,37.0,Male,Insulin,Weight Gain,Serious,24.0,Recovered
+ADR2858,2026-02-19,60.0,Female,Omeprazole,Vitamin B12 Deficiency,Mild,7.0,Recovered
+ADR2016,2026-06-07,81.0,female,Atorvastatin,Muscle Pain,Serious,19.0,Recovered
+ADR3202,2026-01-01,20.0,male,Atorvastatin,Headache,Serious,11.0,Recovered
+ADR2588,2026-06-12,69.0,Male,Ibuprofen,Rash,Mild,11.0,Recovering
+ADR2172,2026-02-16,84.0,M,Paracetamol,Rash,Mild,,Recovered
+ADR2981,2026-02-05,75.0,male,Salbutamol,Palpitations,Mild,21.0,Recovered
+ADR2024,2026-06-15,17.0,M,Insulin,Injection Site Reaction,Serious,,Hospitalized
+ADR3050,2026-07-31,39.0,F,Azithromycin,Diarrhea,Moderate,25.0,Recovered
+ADR2425,2026-07-19,11.0,male,Azithromycin,QT Prolongation,Mild,20.0,Recovered
+ADR2966,2026-03-15,60.0,Female,Insulin,Hypoglycemia,Mild,26.0,Recovered
+ADR2904,2026-07-21,18.0,female,Omeprazole,Nausea,Moderate,20.0,Recovered
+ADR3176,2026-03-09,41.0,Female,Warfarin,Rash,Moderate,24.0,Recovered
+ADR2466,2026-05-10,51.0,male,Warfarin,Bleeding,Mild,3.0,Recovered
+ADR2157,2026-04-30,54.0,female,Omeprazole,Headache,Mild,21.0,Recovered
+ADR2168,2026-08-01,54.0,Male,Insulin,Injection Site Reaction,Mild,12.0,Recovered
+ADR2421,2026-05-03,65.0,female,Paracetamol,Liver Enzyme Elevation,Moderate,4.0,Recovered
+ADR2730,2026-08-24,,,Salbutamol,Headache,Serious,14.0,Recovered
+ADR2826,2026-08-08,19.0,Male,Metformin,Abdominal Pain,Moderate,22.0,Recovered
+ADR2489,2026-02-11,46.0,male,Ibuprofen,Stomach Ulcer,Moderate,-2.0,Recovering
+ADR2271,2026-08-29,29.0,Female,Azithromycin,QT Prolongation,Mild,28.0,Recovered
+ADR3123,2026-08-30,,F,Amlodipine,Flushing,Moderate,14.0,Recovering
+ADR3189,2026-05-21,36.0,F,Warfarin,Bleeding,Moderate,14.0,Recovering
+ADR2468,2026-09-03,70.0,,Azithromycin,Nausea,Mild,28.0,Recovered
+ADR2840,2026-01-15,27.0,female,Insulin,Injection Site Reaction,Mild,22.0,Recovered
+ADR3115,2026-05-28,18.0,female,Amlodipine,Dizziness,Mild,23.0,Recovered
+ADR2822,2026-01-19,27.0,,Losartan,Hyperkalemia,Serious,30.0,Not Recovered
+ADR2337,2026-06-01,5.0,female,Salbutamol,Headache,Serious,29.0,Not Recovered
+ADR2077,2026-04-08,36.0,M,Azithromycin,QT Prolongation,Serious,28.0,Recovered
+ADR3192,2026-01-01,68.0,,Amlodipine,Flushing,Moderate,1.0,Recovered
+ADR2797,2026-01-01,,M,Ibuprofen,Stomach Ulcer,Mild,13.0,Hospitalized
+ADR2850,2026-01-19,82.0,female,Ibuprofen,Rash,Moderate,,Recovered
+ADR2150,2026-05-15,81.0,male,Paracetamol,Liver Enzyme Elevation,Serious,8.0,Not Recovered
+ADR2926,2026-07-09,,male,Ibuprofen,Rash,Moderate,1.0,Recovered
+ADR2849,2026-07-04,47.0,Male,Losartan,Dizziness,Mild,7.0,Recovering
+ADR2750,2026-03-12,,female,Metformin,Diarrhea,Mild,17.0,Recovered
+ADR2076,2026-06-22,25.0,Female,Metformin,Diarrhea,Mild,7.0,Recovered
+ADR2932,2026-02-19,45.0,male,Omeprazole,Nausea,Mild,11.0,Recovered
+ADR2670,2026-02-19,22.0,M,Paracetamol,Liver Enzyme Elevation,Mild,14.0,Recovered
+ADR2917,2026-04-22,52.0,Female,Paracetamol,Nausea,Serious,19.0,Recovered
+ADR2838,2026-02-13,43.0,female,Losartan,Fatigue,Moderate,22.0,Recovered
+ADR2141,2026-04-25,15.0,female,Losartan,Hyperkalemia,Serious,-2.0,Recovered
+ADR2111,2026-09-13,,male,Warfarin,Bruising,Mild,5.0,Recovered
+ADR2236,2026-03-01,32.0,female,Metformin,Abdominal Pain,Mild,16.0,Recovered
+ADR2537,2026-05-27,46.0,Female,Losartan,Dizziness,Mild,16.0,Not Recovered
+ADR2833,2026-08-10,76.0,male,Ibuprofen,Nausea,Mild,25.0,Recovered
+ADR2901,2026-05-17,7.0,Male,Atorvastatin,Headache,Moderate,10.0,Recovered
+ADR2855,2026-02-04,40.0,male,Amlodipine,Swelling (Edema),Moderate,10.0,Recovered
+ADR2308,2026-07-10,47.0,Male,Atorvastatin,Liver Enzyme Elevation,Mild,-2.0,Recovering
+ADR2800,2026-01-15,13.0,male,Omeprazole,Headache,Mild,16.0,Recovered
+ADR2379,2026-02-10,53.0,,Azithromycin,Diarrhea,Mild,-2.0,Recovered
+ADR2870,2026-04-22,76.0,male,Metformin,Abdominal Pain,Mild,-2.0,Recovering
+ADR2596,2026-07-24,77.0,Female,Paracetamol,Nausea,Moderate,25.0,Not Recovered
+ADR2010,2026-05-06,47.0,,Ibuprofen,Rash,Mild,20.0,Recovered
+ADR2664,2026-02-13,,F,Azithromycin,QT Prolongation,Serious,25.0,Recovered
+ADR3116,2026-03-06,82.0,male,Salbutamol,Palpitations,Moderate,7.0,Recovering
+ADR2718,2026-02-26,74.0,M,Losartan,Fatigue,Moderate,18.0,Recovering
+ADR3121,2026-06-13,37.0,M,Atorvastatin,Muscle Pain,Mild,-2.0,Recovered
+ADR2548,2026-06-18,48.0,M,Atorvastatin,Muscle Pain,Moderate,12.0,Recovered
+ADR3083,2026-03-11,58.0,Female,Warfarin,Rash,Moderate,11.0,Recovered
+ADR2032,2026-06-04,16.0,Female,Omeprazole,Nausea,Moderate,,Recovered
+ADR2884,2026-07-19,51.0,F,Losartan,Dizziness,Serious,26.0,Hospitalized
+ADR2357,2026-05-25,54.0,Female,Azithromycin,Diarrhea,Mild,10.0,Recovered
+ADR2424,2026-07-03,30.0,,Losartan,Dizziness,Mild,28.0,Recovered
+ADR2457,2026-02-12,74.0,F,Omeprazole,Vitamin B12 Deficiency,Moderate,25.0,Recovered
+ADR2365,2026-07-22,13.0,M,Cetirizine,Drowsiness,Mild,10.0,Recovered
+ADR2378,2026-01-02,,male,Warfarin,Rash,Mild,2.0,Recovered
+ADR2218,2026-05-28,53.0,Female,Omeprazole,Nausea,Mild,,Recovering
+ADR2951,2026-08-28,87.0,F,Insulin,Weight Gain,Moderate,19.0,Recovered
+ADR2852,2026-01-03,20.0,M,Insulin,Hypoglycemia,Mild,30.0,Recovering
+ADR2093,2026-02-02,8.0,M,Amlodipine,Flushing,Moderate,5.0,Recovering
+ADR2958,2026-07-31,7.0,male,Amlodipine,Flushing,Serious,10.0,Hospitalized
+ADR2868,2026-04-11,,F,Cetirizine,Headache,Mild,17.0,Recovered
+ADR2936,2026-01-25,90.0,,Cetirizine,Drowsiness,Moderate,28.0,Recovering
+ADR2704,2026-01-23,46.0,M,Azithromycin,Nausea,Mild,,Recovered
+ADR2102,2026-08-09,70.0,M,Insulin,Hypoglycemia,Moderate,26.0,Recovered
+ADR2555,2026-05-30,,M,Metformin,Nausea,Mild,9.0,Recovered
+ADR3055,2026-05-25,67.0,F,Cetirizine,Headache,Moderate,12.0,Recovered
+ADR2709,2026-06-14,7.0,male,Metformin,Abdominal Pain,Moderate,17.0,Recovered
+ADR2959,2026-07-29,5.0,Male,Warfarin,Bleeding,Moderate,18.0,Recovering
+ADR2782,2026-08-31,25.0,M,Cetirizine,Headache,Mild,20.0,Recovering
+ADR2221,2026-07-26,13.0,male,Azithromycin,QT Prolongation,Mild,6.0,Recovered
+ADR2669,2026-07-30,50.0,Female,Cetirizine,Headache,Mild,23.0,Recovered
+ADR2626,2026-05-13,66.0,,Salbutamol,Headache,Mild,30.0,Recovered
+ADR2632,2026-01-20,45.0,M,Azithromycin,Nausea,Moderate,10.0,Recovered
+ADR3056,2026-01-04,30.0,F,Insulin,Hypoglycemia,Mild,10.0,Recovered
+ADR3072,2026-07-29,35.0,male,Paracetamol,Nausea,Mild,11.0,Recovered
+ADR2070,2026-08-02,6.0,male,Cetirizine,Headache,Moderate,11.0,Recovered
+ADR3226,2026-07-01,49.0,F,Ibuprofen,Rash,Moderate,6.0,Recovering
+ADR2995,2026-04-27,52.0,,Omeprazole,Vitamin B12 Deficiency,Mild,29.0,Recovered
+ADR2173,2026-04-25,15.0,F,Losartan,Hyperkalemia,Mild,3.0,Recovering
+ADR2433,2026-07-18,72.0,male,Metformin,Diarrhea,Mild,11.0,Recovering
+ADR2150,2026-05-15,81.0,male,Paracetamol,Liver Enzyme Elevation,Serious,8.0,Not Recovered
+ADR2237,2026-07-09,25.0,male,Warfarin,Bleeding,Serious,13.0,Recovered
+ADR2482,2026-03-17,31.0,F,Ibuprofen,Stomach Ulcer,Mild,17.0,Recovered
+ADR2283,2026-01-30,,,Amlodipine,Dizziness,Moderate,,Recovering
+ADR3242,2026-01-04,90.0,Female,Insulin,Weight Gain,Moderate,-2.0,Recovered
+ADR2386,2026-04-26,,Male,Paracetamol,Nausea,Mild,,Recovered
+ADR3227,2026-07-03,60.0,male,Paracetamol,Rash,Mild,-2.0,Recovering
+ADR2210,2026-05-31,78.0,F,Warfarin,Rash,Serious,1.0,Hospitalized
+ADR2341,2026-07-03,66.0,M,Atorvastatin,Headache,Moderate,15.0,Recovered
+ADR2693,2026-07-21,25.0,female,Cetirizine,Drowsiness,Mild,,Recovered
+ADR2613,2026-05-16,36.0,Female,Insulin,Weight Gain,Moderate,23.0,Recovering
+ADR2599,2026-08-11,66.0,male,Azithromycin,QT Prolongation,Moderate,7.0,Recovered
+ADR2128,2026-01-08,86.0,M,Losartan,Fatigue,Moderate,6.0,Recovered
+ADR3105,2026-01-30,14.0,F,Omeprazole,Vitamin B12 Deficiency,Mild,-2.0,Recovered
+ADR3191,2026-05-13,27.0,,Warfarin,Rash,Serious,,Recovered
+ADR2339,2026-02-28,25.0,M,Amlodipine,Flushing,Mild,29.0,Recovering
+ADR2067,2026-04-24,,Female,Losartan,Dizziness,Mild,28.0,Recovered
+ADR2616,2026-06-13,21.0,male,Losartan,Dizziness,Mild,29.0,Recovered
+ADR2909,2026-09-04,81.0,F,Paracetamol,Nausea,Mild,18.0,Not Recovered
+ADR2813,2026-09-15,42.0,female,Losartan,Dizziness,Mild,21.0,Recovered
+ADR3245,2026-08-27,43.0,female,Amlodipine,Flushing,Serious,2.0,Recovered
+ADR3126,2026-01-02,39.0,M,Cetirizine,Dry Mouth,Mild,23.0,Recovered
+ADR2940,2026-08-23,33.0,female,Losartan,Hyperkalemia,Mild,15.0,Recovering
+ADR2759,2026-01-17,43.0,F,Omeprazole,Vitamin B12 Deficiency,Mild,29.0,Recovered
+ADR3113,2026-06-05,59.0,female,Atorvastatin,Headache,Moderate,15.0,Recovered
+ADR3236,2026-03-07,18.0,Male,Ibuprofen,Nausea,Moderate,15.0,Recovering
+ADR2589,2026-07-26,22.0,M,Warfarin,Bleeding,Serious,16.0,Recovered
+ADR2390,2026-05-05,63.0,Male,Azithromycin,Nausea,Serious,-2.0,Recovered
+ADR2054,2026-08-14,63.0,Male,Losartan,Hyperkalemia,Mild,26.0,Recovering
+ADR2230,2026-01-26,66.0,Female,Omeprazole,Nausea,Mild,,Recovering
+ADR2036,2026-04-07,27.0,M,Cetirizine,Headache,Mild,9.0,Not Recovered
+ADR2287,2026-08-10,87.0,F,Insulin,Injection Site Reaction,Mild,20.0,Recovering
+ADR2623,2026-07-29,31.0,male,Ibuprofen,Stomach Ulcer,Mild,14.0,Recovered
+ADR2315,2026-05-05,29.0,Female,Amlodipine,Dizziness,Serious,12.0,Hospitalized
+ADR2008,2026-01-02,8.0,Female,Atorvastatin,Liver Enzyme Elevation,Moderate,23.0,Recovered
+ADR2538,2026-06-13,57.0,Female,Losartan,Dizziness,Moderate,17.0,Recovered
+ADR3048,2026-07-09,,F,Atorvastatin,Muscle Pain,Serious,21.0,Recovering
+ADR3097,2026-04-23,46.0,,Ibuprofen,Stomach Ulcer,Moderate,4.0,Recovered
+ADR2319,2026-03-06,52.0,,Omeprazole,Headache,Mild,19.0,Recovered
+ADR2775,2026-06-14,80.0,male,Omeprazole,Nausea,Mild,9.0,Not Recovered
+ADR2311,2026-01-12,36.0,F,Insulin,Injection Site Reaction,Moderate,12.0,Recovered
+ADR3041,2026-08-27,31.0,female,Paracetamol,Nausea,Moderate,21.0,Recovering
+ADR2302,2026-02-12,31.0,F,Amlodipine,Flushing,Mild,27.0,Recovered
+ADR2405,2026-06-17,35.0,,Amlodipine,Flushing,Moderate,1.0,Recovered
+ADR3045,2026-05-20,51.0,male,Ibuprofen,Nausea,Moderate,17.0,Recovering
+ADR2720,2026-06-21,76.0,female,Ibuprofen,Rash,Mild,4.0,Not Recovered
+ADR3156,2026-01-16,70.0,M,Atorvastatin,Headache,Mild,20.0,Recovered
+ADR2533,2026-01-04,86.0,male,Losartan,Hyperkalemia,Moderate,22.0,Recovered
+ADR2716,2026-06-22,15.0,F,Azithromycin,Nausea,Moderate,3.0,Not Recovered
+ADR3225,2026-01-11,,female,Warfarin,Rash,Mild,,Not Recovered
+ADR2522,2026-08-23,23.0,male,Salbutamol,Headache,Moderate,4.0,Recovered
+ADR2087,2026-06-27,25.0,male,Amlodipine,Dizziness,Moderate,2.0,Recovered
+ADR3221,2026-04-18,43.0,F,Insulin,Injection Site Reaction,Mild,-2.0,Recovered
+ADR3064,2026-01-05,5.0,Female,Ibuprofen,Nausea,Mild,9.0,Recovering
+ADR2062,2026-01-11,57.0,Male,Ibuprofen,Nausea,Mild,-2.0,Hospitalized
+ADR2453,2026-07-19,,female,Atorvastatin,Liver Enzyme Elevation,Serious,,Recovered
+ADR2653,2026-05-13,,F,Metformin,Abdominal Pain,Moderate,-2.0,Not Recovered
+ADR2512,2026-09-08,66.0,M,Paracetamol,Rash,Mild,22.0,Recovered
+ADR2631,2026-03-10,40.0,,Insulin,Hypoglycemia,Serious,5.0,Recovered
+ADR2189,2026-09-12,17.0,Male,Losartan,Dizziness,Mild,24.0,Not Recovered
+ADR2163,2026-07-19,43.0,,Ibuprofen,Stomach Ulcer,Mild,24.0,Recovering
+ADR2243,2026-09-08,34.0,Male,Omeprazole,Headache,Mild,30.0,Recovered
+ADR3049,2026-05-23,13.0,Male,Amlodipine,Dizziness,Mild,7.0,Recovered
+ADR2729,2026-08-16,33.0,Male,Metformin,Abdominal Pain,Mild,13.0,Recovered
+ADR2532,2026-06-16,49.0,Male,Insulin,Injection Site Reaction,Mild,5.0,Recovered
+ADR2372,2026-07-09,86.0,female,Omeprazole,Headache,Moderate,,Recovered
+ADR2876,2026-07-20,9.0,Female,Paracetamol,Nausea,Moderate,16.0,Recovering
+ADR3146,2026-07-18,61.0,F,Cetirizine,Drowsiness,Serious,,Recovered
+ADR2358,2026-06-25,13.0,M,Losartan,Dizziness,Mild,11.0,Recovered
+ADR2254,2026-04-27,35.0,,Losartan,Hyperkalemia,Mild,2.0,Recovered
+ADR3128,2026-06-23,7.0,F,Amlodipine,Dizziness,Mild,6.0,Recovered
+ADR2097,2026-05-04,35.0,male,Metformin,Nausea,Moderate,16.0,Recovered
+ADR2245,2026-03-20,81.0,M,Atorvastatin,Muscle Pain,Serious,9.0,Not Recovered
+ADR3000,2026-08-25,49.0,,Metformin,Diarrhea,Mild,20.0,Recovered
+ADR2114,2026-06-10,60.0,male,Insulin,Injection Site Reaction,Mild,29.0,Recovered
+ADR3182,2026-05-18,,,Azithromycin,Nausea,Mild,19.0,Recovered
+ADR2755,2026-06-25,19.0,M,Amlodipine,Swelling (Edema),Mild,-2.0,Recovered
+ADR3186,2026-09-05,82.0,F,Paracetamol,Nausea,Moderate,-2.0,Recovered
+ADR2427,2026-09-13,88.0,M,Paracetamol,Rash,Serious,24.0,Recovered
+ADR3074,2026-02-01,22.0,M,Atorvastatin,Muscle Pain,Mild,5.0,Recovered
+ADR2942,2026-01-21,7.0,,Amlodipine,Flushing,Mild,-2.0,Hospitalized
+ADR2745,2026-02-18,74.0,female,Ibuprofen,Nausea,Mild,8.0,Recovered
+ADR3101,2026-04-06,78.0,Male,Azithromycin,QT Prolongation,Mild,20.0,Recovering
+ADR2137,2026-02-04,38.0,male,Amlodipine,Dizziness,Serious,16.0,Recovered
+ADR2417,2026-06-04,87.0,Male,Omeprazole,Nausea,Mild,26.0,Recovered
+ADR2013,2026-05-13,66.0,,Amlodipine,Dizziness,Moderate,10.0,Recovered
+ADR2392,2026-04-11,78.0,,Atorvastatin,Liver Enzyme Elevation,Mild,5.0,Not Recovered
+ADR3118,2026-07-13,56.0,male,Cetirizine,Drowsiness,Mild,,Recovered
+ADR2506,2026-05-08,8.0,male,Ibuprofen,Rash,Moderate,5.0,Recovered
+ADR2493,2026-01-07,7.0,male,Losartan,Dizziness,Serious,22.0,Recovering
+ADR2294,2026-08-20,70.0,,Losartan,Hyperkalemia,Mild,-2.0,Recovering
+ADR2207,2026-06-16,,female,Cetirizine,Headache,Mild,4.0,Recovered
+ADR2807,2026-02-07,17.0,,Cetirizine,Headache,Mild,9.0,Not Recovered
+ADR3196,2026-02-09,15.0,female,Cetirizine,Drowsiness,Mild,5.0,Not Recovered
+ADR2714,2026-08-22,56.0,female,Paracetamol,Rash,Moderate,16.0,Recovered
+ADR2817,2026-03-05,19.0,F,Metformin,Abdominal Pain,Mild,,Not Recovered
+ADR2080,2026-04-19,,male,Ibuprofen,Rash,Mild,30.0,Recovering
+ADR2883,2026-04-02,65.0,Female,Paracetamol,Nausea,Mild,17.0,Recovered
+ADR3026,2026-06-15,11.0,F,Losartan,Hyperkalemia,Moderate,-2.0,Recovering
+ADR2401,2026-05-08,82.0,F,Metformin,Diarrhea,Mild,27.0,Recovered
+ADR2158,2026-03-02,63.0,M,Losartan,Hyperkalemia,Mild,28.0,Recovered
+ADR2492,2026-02-24,35.0,male,Losartan,Hyperkalemia,Mild,1.0,Not Recovered
+ADR3145,2026-03-19,20.0,,Ibuprofen,Rash,Moderate,12.0,Recovering
+ADR2726,2026-07-08,43.0,Male,Salbutamol,Headache,Moderate,-2.0,Recovering
+ADR2681,2026-07-06,17.0,F,Metformin,Diarrhea,Mild,10.0,Recovering
+ADR2402,2026-01-29,62.0,,Azithromycin,Nausea,Serious,24.0,Recovered
+ADR2180,2026-09-10,65.0,F,Paracetamol,Nausea,Mild,-2.0,Recovering
+ADR2922,2026-08-09,20.0,F,Insulin,Weight Gain,Mild,2.0,Recovering
+ADR2079,2026-06-17,15.0,Female,Warfarin,Rash,Serious,24.0,Recovering
+ADR2987,2026-03-10,78.0,female,Insulin,Weight Gain,Moderate,,Recovered
+ADR3184,2026-03-16,6.0,,Cetirizine,Dry Mouth,Moderate,17.0,Recovered
+ADR2737,2026-06-05,42.0,female,Insulin,Weight Gain,Mild,15.0,Recovering
+ADR2695,2026-04-30,44.0,male,Paracetamol,Rash,Mild,11.0,Not Recovered
+ADR2320,2026-09-13,6.0,male,Metformin,Abdominal Pain,Moderate,21.0,Recovered
+ADR2485,2026-08-13,22.0,M,Salbutamol,Palpitations,Moderate,-2.0,Recovered
+ADR2199,2026-01-16,37.0,Female,Salbutamol,Palpitations,Moderate,-2.0,Recovering
+ADR2818,2026-06-07,56.0,,Salbutamol,Palpitations,Mild,,Recovering
+ADR2712,2026-04-18,52.0,Male,Amlodipine,Flushing,Mild,8.0,Recovered
+ADR2621,2026-05-25,67.0,,Atorvastatin,Headache,Moderate,3.0,Recovered
+ADR3047,2026-08-08,25.0,male,Amlodipine,Swelling (Edema),Mild,11.0,Recovered
+ADR2439,2026-05-01,,,Metformin,Diarrhea,Serious,29.0,Recovering
+ADR3217,2026-06-16,,M,Insulin,Hypoglycemia,Mild,24.0,Hospitalized
+ADR2134,2026-09-10,78.0,,Metformin,Abdominal Pain,Moderate,15.0,Recovered
+ADR2815,2026-08-05,42.0,,Insulin,Injection Site Reaction,Moderate,-2.0,Not Recovered
+ADR2647,2026-01-09,26.0,M,Warfarin,Bleeding,Mild,27.0,Recovering
+ADR2863,2026-02-20,69.0,Female,Metformin,Diarrhea,Moderate,24.0,Recovered
+ADR2900,2026-03-09,38.0,M,Cetirizine,Drowsiness,Mild,15.0,Recovering
+ADR2408,2026-06-17,24.0,F,Amlodipine,Swelling (Edema),Mild,14.0,Recovering
+ADR2155,2026-04-03,81.0,female,Amlodipine,Swelling (Edema),Mild,30.0,Recovered
+ADR3030,2026-08-04,84.0,M,Omeprazole,Nausea,Mild,20.0,Not Recovered
+ADR2279,2026-02-10,72.0,male,Insulin,Weight Gain,Moderate,7.0,Recovered
+ADR2795,2026-01-21,72.0,Male,Azithromycin,Diarrhea,Serious,,Recovered
+ADR2116,2026-05-13,59.0,female,Losartan,Hyperkalemia,Moderate,,Recovered
+ADR2597,2026-02-07,12.0,Male,Azithromycin,Nausea,Serious,14.0,Recovering
+ADR2209,2026-06-19,78.0,Male,Ibuprofen,Nausea,Mild,,Recovered
+ADR2719,2026-07-10,33.0,Male,Ibuprofen,Stomach Ulcer,Mild,,Recovering
+ADR2586,2026-06-27,64.0,male,Cetirizine,Drowsiness,Moderate,5.0,Recovered
+ADR3033,2026-04-26,48.0,male,Azithromycin,Diarrhea,Serious,26.0,Recovered
+ADR2469,2026-06-16,84.0,male,Insulin,Weight Gain,Moderate,10.0,Recovered
+ADR2540,2026-01-28,47.0,male,Insulin,Weight Gain,Mild,20.0,Recovering
+ADR2836,2026-05-28,76.0,Male,Insulin,Weight Gain,Moderate,11.0,Recovered
+ADR2529,2026-04-07,,female,Losartan,Fatigue,Mild,,Recovered
+ADR2240,2026-07-15,64.0,,Metformin,Diarrhea,Moderate,-2.0,Not Recovered
+ADR3186,2026-09-05,82.0,F,Paracetamol,Nausea,Moderate,-2.0,Recovered
+ADR3248,2026-05-28,10.0,F,Losartan,Hyperkalemia,Serious,23.0,Not Recovered
+ADR2458,2026-06-22,10.0,female,Omeprazole,Headache,Mild,-2.0,Recovered
+ADR2420,2026-01-23,73.0,male,Atorvastatin,Muscle Pain,Moderate,28.0,Recovered
+ADR2264,2026-05-24,69.0,M,Salbutamol,Palpitations,Serious,,Not Recovered
+ADR2920,2026-05-26,49.0,Female,Azithromycin,QT Prolongation,Mild,6.0,Recovering
+ADR3084,2026-05-13,79.0,Female,Ibuprofen,Stomach Ulcer,Mild,5.0,Not Recovered
+ADR2947,2026-05-01,54.0,Female,Omeprazole,Headache,Moderate,-2.0,Recovering
+ADR2906,2026-04-01,64.0,M,Warfarin,Bleeding,Moderate,19.0,Recovered
+ADR2431,2026-04-28,45.0,F,Atorvastatin,Muscle Pain,Moderate,21.0,Recovered
+ADR2203,2026-02-03,81.0,Male,Atorvastatin,Muscle Pain,Mild,11.0,Recovering
+ADR2184,2026-08-01,85.0,male,Salbutamol,Tremor,Mild,20.0,Recovered
+ADR2178,2026-05-25,13.0,M,Insulin,Injection Site Reaction,Mild,26.0,Recovered
+ADR2937,2026-09-16,64.0,M,Atorvastatin,Liver Enzyme Elevation,Mild,19.0,Recovered
+ADR3187,2026-05-22,78.0,,Omeprazole,Vitamin B12 Deficiency,Moderate,23.0,Recovered
+ADR3207,2026-07-29,72.0,Male,Losartan,Dizziness,Mild,24.0,Recovered
+ADR2083,2026-01-25,16.0,female,Metformin,Nausea,Moderate,4.0,Recovered
+ADR2293,2026-07-31,83.0,M,Cetirizine,Drowsiness,Mild,14.0,Recovering
+ADR2159,2026-06-22,17.0,Female,Azithromycin,QT Prolongation,Moderate,-2.0,Not Recovered
+ADR2086,2026-04-15,49.0,M,Atorvastatin,Headache,Mild,12.0,Recovered
+ADR2154,2026-07-11,51.0,female,Ibuprofen,Stomach Ulcer,Mild,3.0,Recovered
+ADR2885,2026-08-21,6.0,male,Cetirizine,Drowsiness,Moderate,18.0,Hospitalized
+ADR2634,2026-06-03,36.0,,Amlodipine,Flushing,Mild,,Recovered
+ADR2126,2026-02-06,49.0,female,Paracetamol,Rash,Moderate,16.0,Recovered
+ADR2523,2026-05-27,7.0,male,Salbutamol,Tremor,Mild,7.0,Recovered
+ADR2824,2026-07-27,77.0,Male,Losartan,Hyperkalemia,Moderate,20.0,Recovering
+ADR2620,2026-01-03,22.0,,Cetirizine,Dry Mouth,Moderate,6.0,Hospitalized
+ADR2976,2026-06-27,69.0,Female,Warfarin,Bruising,Moderate,2.0,Recovering
+ADR3008,2026-09-03,45.0,female,Ibuprofen,Stomach Ulcer,Moderate,2.0,Recovered
+ADR2711,2026-01-22,,F,Ibuprofen,Rash,Mild,18.0,Recovered
+ADR2949,2026-09-10,65.0,M,Metformin,Nausea,Mild,27.0,Recovered
+ADR2739,2026-03-29,32.0,Female,Atorvastatin,Liver Enzyme Elevation,Mild,3.0,Recovered
+ADR2354,2026-02-21,76.0,M,Atorvastatin,Headache,Moderate,16.0,Recovering
+ADR3054,2026-05-29,18.0,Male,Salbutamol,Palpitations,Mild,2.0,Recovered
+ADR2848,2026-03-14,75.0,male,Warfarin,Rash,Serious,-2.0,Recovered
+ADR2967,2026-06-11,40.0,,Paracetamol,Rash,Serious,22.0,Not Recovered
+ADR2524,2026-05-22,53.0,Male,Ibuprofen,Stomach Ulcer,Moderate,12.0,Recovered
+ADR2907,2026-06-14,,Male,Insulin,Hypoglycemia,Moderate,20.0,Recovered
+ADR3185,2026-06-04,31.0,Male,Paracetamol,Nausea,Mild,7.0,Recovered
+ADR2286,2026-02-16,42.0,Female,Ibuprofen,Stomach Ulcer,Moderate,8.0,Recovered
+ADR2738,2026-07-29,47.0,,Omeprazole,Vitamin B12 Deficiency,Mild,8.0,Not Recovered
+ADR3092,2026-01-18,40.0,M,Omeprazole,Nausea,Serious,5.0,Recovered
+ADR2779,2026-03-27,39.0,Male,Salbutamol,Headache,Mild,,Recovered
+ADR2484,2026-04-19,31.0,Male,Atorvastatin,Liver Enzyme Elevation,Serious,6.0,Recovered
+ADR2837,2026-03-13,64.0,Female,Ibuprofen,Stomach Ulcer,Mild,6.0,Recovered
+ADR2964,2026-08-23,27.0,female,Losartan,Fatigue,Mild,22.0,Recovering
+ADR2376,2026-07-01,18.0,,Amlodipine,Swelling (Edema),Moderate,,Recovered
+ADR2842,2026-02-22,42.0,Male,Cetirizine,Headache,Mild,13.0,Recovered
+ADR2299,2026-02-25,,F,Paracetamol,Rash,Mild,8.0,Recovering
+ADR2827,2026-06-19,,male,Ibuprofen,Rash,Moderate,11.0,Recovered
+ADR2946,2026-05-10,34.0,,Azithromycin,QT Prolongation,Mild,-2.0,Recovered
+ADR2899,2026-02-21,55.0,Male,Salbutamol,Headache,Moderate,19.0,Recovered
+ADR2306,2026-07-04,61.0,F,Atorvastatin,Muscle Pain,Serious,22.0,Recovered
+ADR3169,2026-04-25,,F,Insulin,Injection Site Reaction,Moderate,-2.0,Recovering
+ADR3044,2026-04-29,68.0,M,Atorvastatin,Headache,Moderate,30.0,Recovered
+ADR2044,2026-04-30,88.0,Female,Losartan,Hyperkalemia,Moderate,2.0,Not Recovered
+ADR2122,2026-01-17,39.0,Male,Atorvastatin,Liver Enzyme Elevation,Serious,18.0,Hospitalized
+ADR3068,2026-01-13,46.0,Male,Ibuprofen,Rash,Mild,,Recovered
+ADR2715,2026-01-02,,M,Atorvastatin,Liver Enzyme Elevation,Mild,11.0,Recovered
+ADR2697,2026-06-17,,Female,Metformin,Abdominal Pain,Mild,19.0,Not Recovered
+ADR2574,2026-02-22,53.0,Male,Ibuprofen,Stomach Ulcer,Mild,20.0,Recovered
+ADR3170,2026-09-03,70.0,Female,Omeprazole,Nausea,Moderate,5.0,Recovered
+ADR2471,2026-05-18,15.0,female,Cetirizine,Dry Mouth,Mild,,Recovered
+ADR2292,2026-02-04,,F,Paracetamol,Rash,Mild,9.0,Recovered
+ADR2699,2026-06-13,5.0,Female,Warfarin,Bleeding,Mild,9.0,Recovering
+ADR2624,2026-09-01,,,Azithromycin,Diarrhea,Mild,19.0,Recovering
+ADR2034,2026-03-20,15.0,male,Cetirizine,Headache,Mild,17.0,Recovering
+ADR2686,2026-03-22,89.0,Female,Paracetamol,Liver Enzyme Elevation,Mild,6.0,Recovered
+ADR2001,2026-09-01,86.0,female,Ibuprofen,Nausea,Moderate,27.0,Recovering
+ADR2939,2026-07-16,21.0,M,Atorvastatin,Liver Enzyme Elevation,Serious,10.0,Recovered
+ADR3241,2026-08-25,66.0,,Azithromycin,Nausea,Moderate,3.0,Recovered
+ADR2226,2026-07-19,47.0,Female,Omeprazole,Nausea,Mild,16.0,Hospitalized
+ADR3165,2026-04-06,11.0,Male,Azithromycin,Diarrhea,Mild,1.0,Recovered
+ADR2244,2026-07-08,58.0,F,Metformin,Nausea,Moderate,13.0,Recovering
+ADR2267,2026-02-03,28.0,Male,Omeprazole,Vitamin B12 Deficiency,Moderate,14.0,Recovered
+ADR2886,2026-05-06,21.0,Female,Atorvastatin,Liver Enzyme Elevation,Mild,4.0,Recovered
+ADR2787,2026-05-09,52.0,Female,Azithromycin,QT Prolongation,Mild,21.0,Recovering
+ADR3172,2026-03-14,50.0,Male,Salbutamol,Palpitations,Mild,22.0,Recovered
+ADR2945,2026-09-06,36.0,male,Azithromycin,Nausea,Serious,,Recovered
+ADR3073,2026-01-24,59.0,,Salbutamol,Palpitations,Moderate,7.0,Recovered
+ADR3127,2026-06-04,,M,Amlodipine,Dizziness,Mild,10.0,Recovered
+ADR3091,2026-01-13,42.0,female,Amlodipine,Dizziness,Serious,,Recovered
+ADR2810,2026-07-02,,Male,Metformin,Diarrhea,Serious,21.0,Hospitalized
+ADR2023,2026-06-01,10.0,female,Warfarin,Rash,Mild,5.0,Recovering
+ADR2464,2026-08-03,23.0,female,Azithromycin,Diarrhea,Mild,-2.0,Not Recovered
+ADR2753,2026-06-07,50.0,female,Ibuprofen,Rash,Serious,8.0,Recovered
+ADR2728,2026-05-30,77.0,M,Salbutamol,Headache,Mild,1.0,Recovering
+ADR2854,2026-03-19,56.0,M,Cetirizine,Drowsiness,Mild,29.0,Not Recovered
+ADR2657,2026-04-05,34.0,F,Warfarin,Rash,Moderate,30.0,Recovering
+ADR2865,2026-06-15,36.0,female,Paracetamol,Nausea,Mild,2.0,Recovered
+ADR2470,2026-07-21,49.0,female,Salbutamol,Tremor,Mild,27.0,Recovered
+ADR2983,2026-01-30,54.0,male,Atorvastatin,Headache,Serious,25.0,Recovered
+ADR2162,2026-05-21,64.0,female,Azithromycin,QT Prolongation,Moderate,26.0,Recovered
+ADR2877,2026-05-21,16.0,M,Salbutamol,Palpitations,Moderate,30.0,Recovered
+ADR2898,2026-07-10,41.0,M,Warfarin,Bruising,Serious,3.0,Not Recovered
+ADR3089,2026-08-02,6.0,male,Azithromycin,Diarrhea,Mild,21.0,Recovered
+ADR2988,2026-05-02,20.0,Female,Azithromycin,QT Prolongation,Mild,,Recovering
+ADR2929,2026-09-10,,F,Omeprazole,Nausea,Mild,-2.0,Recovered
+ADR2860,2026-01-26,48.0,Male,Salbutamol,Tremor,Mild,29.0,Recovered
+ADR2968,2026-04-24,51.0,female,Amlodipine,Swelling (Edema),Moderate,,Recovered
+ADR2527,2026-01-25,6.0,F,Losartan,Hyperkalemia,Moderate,22.0,Recovered
+ADR2997,2026-07-08,52.0,F,Insulin,Injection Site Reaction,Mild,9.0,Recovered
+ADR3210,2026-06-05,38.0,,Atorvastatin,Muscle Pain,Mild,-2.0,Recovered
+ADR3201,2026-04-12,35.0,,Insulin,Hypoglycemia,Mild,4.0,Recovering
+ADR2689,2026-07-29,74.0,female,Metformin,Diarrhea,Serious,26.0,Recovered
+ADR2307,2026-02-26,78.0,,Metformin,Diarrhea,Moderate,21.0,Recovered
+ADR2683,2026-03-29,,,Amlodipine,Dizziness,Mild,20.0,Recovered
+ADR2170,2026-02-07,13.0,Male,Omeprazole,Nausea,Mild,1.0,Recovered
+ADR2355,2026-01-01,75.0,Female,Omeprazole,Vitamin B12 Deficiency,Moderate,7.0,Recovering
+ADR3219,2026-03-17,,M,Insulin,Weight Gain,Moderate,22.0,Recovered
+ADR2414,2026-08-24,45.0,male,Ibuprofen,Stomach Ulcer,Mild,23.0,Recovered
+ADR2963,2026-02-26,66.0,,Metformin,Abdominal Pain,Mild,-2.0,Recovered
+ADR2231,2026-05-27,,Female,Paracetamol,Rash,Mild,8.0,Recovered
+ADR3071,2026-04-25,79.0,,Losartan,Fatigue,Mild,18.0,Recovered
+ADR2241,2026-02-24,38.0,Male,Paracetamol,Rash,Moderate,9.0,Recovering
+ADR2400,2026-06-15,54.0,male,Salbutamol,Tremor,Serious,,Not Recovered
+ADR2206,2026-07-30,34.0,F,Salbutamol,Tremor,Moderate,4.0,Recovered
+ADR3133,2026-06-13,72.0,F,Losartan,Fatigue,Mild,29.0,Recovered
+ADR3006,2026-05-30,58.0,F,Cetirizine,Drowsiness,Mild,22.0,Recovered
+ADR2291,2026-08-12,64.0,Male,Paracetamol,Rash,Moderate,26.0,Recovered
+ADR2002,2026-08-08,35.0,Male,Insulin,Hypoglycemia,Moderate,-2.0,Recovered
+ADR2329,2026-05-04,20.0,Female,Losartan,Dizziness,Mild,14.0,Recovered
+ADR3209,2026-08-17,52.0,male,Amlodipine,Swelling (Edema),Mild,10.0,Recovered
+ADR2927,2026-08-30,6.0,male,Cetirizine,Dry Mouth,Mild,29.0,Recovered
+ADR2404,2026-01-26,15.0,female,Cetirizine,Headache,Mild,-2.0,Recovered
+ADR3013,2026-09-08,69.0,Male,Cetirizine,Headache,Mild,15.0,Recovering
+ADR2262,2026-06-07,63.0,M,Amlodipine,Swelling (Edema),Mild,11.0,Not Recovered
+ADR2389,2026-06-23,81.0,Female,Insulin,Hypoglycemia,Serious,14.0,Not Recovered
+ADR2145,2026-09-05,67.0,M,Metformin,Abdominal Pain,Mild,2.0,Recovered
+ADR2441,2026-05-27,17.0,Female,Azithromycin,Nausea,Mild,6.0,Recovered
+ADR2843,2026-09-14,12.0,F,Omeprazole,Headache,Moderate,11.0,Recovered
+ADR2641,2026-05-27,38.0,female,Omeprazole,Nausea,Mild,21.0,Recovering
+ADR2187,2026-03-26,39.0,Male,Atorvastatin,Muscle Pain,Mild,6.0,Recovered
+ADR3077,2026-06-15,12.0,,Omeprazole,Headache,Mild,14.0,Recovered
+ADR2356,2026-02-26,,,Ibuprofen,Stomach Ulcer,Moderate,29.0,Recovered
+ADR2246,2026-03-18,6.0,M,Salbutamol,Headache,Mild,,Recovered
+ADR2773,2026-07-02,52.0,Female,Omeprazole,Vitamin B12 Deficiency,Moderate,20.0,Recovered
+ADR2435,2026-08-13,66.0,,Omeprazole,Headache,Moderate,16.0,Recovered
+ADR2791,2026-03-22,45.0,M,Ibuprofen,Rash,Moderate,14.0,Recovering
+ADR2183,2026-07-14,80.0,Female,Atorvastatin,Headache,Serious,3.0,Recovered
+ADR3246,2026-09-09,30.0,Male,Azithromycin,QT Prolongation,Mild,27.0,Hospitalized
+ADR2059,2026-06-07,,,Losartan,Dizziness,Serious,11.0,Recovered
+ADR2444,2026-01-02,43.0,F,Warfarin,Bruising,Serious,28.0,Recovered
+ADR2361,2026-05-18,53.0,Female,Atorvastatin,Headache,Mild,18.0,Recovering
+ADR2960,2026-01-11,45.0,female,Metformin,Nausea,Serious,23.0,Recovered
+ADR2050,2026-04-02,62.0,Male,Insulin,Weight Gain,Mild,8.0,Recovered
+ADR3162,2026-01-23,87.0,Male,Cetirizine,Drowsiness,Mild,20.0,Recovered
+ADR2934,2026-03-28,,female,Azithromycin,Nausea,Mild,,Not Recovered
+ADR2396,2026-09-10,36.0,,Metformin,Diarrhea,Serious,24.0,Recovered
+ADR2740,2026-07-17,23.0,F,Losartan,Dizziness,Serious,3.0,Recovered
+ADR2130,2026-01-27,30.0,,Paracetamol,Liver Enzyme Elevation,Moderate,16.0,Recovering
+ADR2215,2026-02-14,,Female,Atorvastatin,Muscle Pain,Serious,30.0,Recovered
+ADR2275,2026-08-07,78.0,M,Paracetamol,Rash,Mild,15.0,Recovered
+ADR3037,2026-04-08,20.0,M,Cetirizine,Drowsiness,Mild,25.0,Recovered
+ADR2633,2026-04-25,78.0,female,Losartan,Fatigue,Moderate,17.0,Recovered
+ADR2893,2026-07-27,75.0,F,Amlodipine,Swelling (Edema),Mild,,Recovered
+ADR2235,2026-08-08,46.0,F,Amlodipine,Dizziness,Mild,28.0,Recovered
+ADR2831,2026-01-20,58.0,,Warfarin,Bleeding,Moderate,12.0,Recovering
+ADR2953,2026-05-13,,M,Atorvastatin,Muscle Pain,Moderate,,Recovered
+ADR2473,2026-07-27,65.0,F,Atorvastatin,Muscle Pain,Mild,1.0,Recovering
+ADR3212,2026-07-16,79.0,Female,Amlodipine,Swelling (Edema),Serious,19.0,Recovered
+ADR2239,2026-08-09,38.0,,Cetirizine,Drowsiness,Mild,3.0,Recovered
+ADR2957,2026-05-03,25.0,F,Paracetamol,Liver Enzyme Elevation,Mild,15.0,Recovered
+ADR2989,2026-06-08,48.0,female,Amlodipine,Flushing,Serious,10.0,Hospitalized
+ADR2734,2026-01-04,63.0,female,Insulin,Injection Site Reaction,Serious,6.0,Hospitalized
+ADR2348,2026-02-23,,,Omeprazole,Nausea,Serious,9.0,Not Recovered
+ADR2242,2026-09-05,28.0,female,Losartan,Fatigue,Mild,1.0,Recovering
+ADR2572,2026-09-04,34.0,Female,Amlodipine,Flushing,Serious,28.0,Recovered
+ADR2437,2026-04-26,22.0,,Salbutamol,Tremor,Mild,13.0,Recovered
+ADR2578,2026-05-04,9.0,F,Ibuprofen,Stomach Ulcer,Mild,29.0,Recovering
+ADR3150,2026-05-25,73.0,Female,Omeprazole,Vitamin B12 Deficiency,Mild,8.0,Recovered
+ADR2919,2026-04-09,87.0,female,Cetirizine,Dry Mouth,Moderate,16.0,Not Recovered
+ADR2057,2026-07-19,21.0,male,Metformin,Diarrhea,Serious,15.0,Recovering
+ADR2502,2026-09-07,24.0,male,Insulin,Injection Site Reaction,Serious,20.0,Recovered
+ADR2639,2026-06-13,,Male,Cetirizine,Drowsiness,Moderate,9.0,Recovering
+ADR2349,2026-05-02,22.0,female,Azithromycin,Diarrhea,Moderate,11.0,Recovered
+ADR2383,2026-09-15,13.0,,Paracetamol,Rash,Mild,10.0,Recovered
